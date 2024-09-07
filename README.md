@@ -364,6 +364,7 @@ En la siguiente sección, se presentará el sprint #1 con la versión inicial de
 |Elaborar y diseñar el landing page informativa para la aplicación Ez-Vet|<p>12</p><p></p>|12||||
 
 #### 5.2.X.2. Sprint Backlog n
+Durante el primer sprint, el equipo se centró en desarrollar una landing page que fuera tanto atractiva como funcional, organizando y distribuyendo tareas en el tablero de Sprint de acuerdo con las habilidades de cada integrante.
 
 #### 5.2.X.3. Development Evidence for Sprint Review
 
