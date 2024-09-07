@@ -3,10 +3,10 @@
 
   ***Segmento 1: Médicos Veterinarios***
 
-    ![](./assets/img/Tobe1.jpeg)
+  ![](./assets/img/Tobe1.jpeg)
 
   ***Segmento 2: Dueños de Mascotas***
-  
+
   ![](./assets/img/Tobe2.jpeg)
 
 
