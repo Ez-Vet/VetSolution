@@ -24,6 +24,7 @@ Crearemos una aplicación que se adapte a cualquier dispositivo tecnológico, ma
 Un aspecto fundamental de nuestro diseño es la implementación del patrón en forma de Z, que orienta al usuario de forma intuitiva desde la esquina superior izquierda hasta la inferior derecha, facilitando un acceso rápido y eficiente a la información clave.
 
 ## 4.2. Information Architecture
+Esta sección aborda los elementos esenciales del contenido visual, los estilos, etiquetas, y otros aspectos importantes que se considerarán durante el desarrollo del sitio web y landing page.
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tag
