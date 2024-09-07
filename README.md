@@ -393,7 +393,6 @@ No se entrega
 - Clínica Veterinaria – Clínica especializada en Veterinaria. (s. f.). https://cimevet.com.pe/
 
 # Anexos
-- Anexo 1: [Organización en GitHub]()
-- Anexo 2: [Mockups - Wireframe]()
-- Anexo 3: [User-Flow - WireFlow Diagram]()
-- Anexo 6: [Trello](https://trello.com/)
+- Anexo 1: [Organización en GitHub](https://github.com/Ez-Vet/VetSolution)
+- Anexo 2: [Mockups - Wireframe - User-Flow - WireFlow](https://www.figma.com/design/U3HFzRFzbx3daXfD7m18YZ/VetSolution?node-id=0-1&t=kbeh7DxEacwi9o9H-1)
+- Anexo 3: [Trello](https://trello.com/)
