@@ -183,6 +183,15 @@ Wireframe Mobile En la versión mobile el navbar se reemplaza por un menu desple
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
 
+Mock-ups Desktop:
+
+![](./assets/imagen/mockup-app1.png)
+![](./assets/imagen/mockup-app2.png)
+![](./assets/imagen/mockup-app3.png)
+![](./assets/imagen/mockup-app4.png)
+![](./assets/imagen/mockup-app5.png)
+![](./assets/imagen/mockup-app6.png)
+
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
