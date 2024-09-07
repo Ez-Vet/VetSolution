@@ -181,6 +181,29 @@ Wireframe Mobile En la versión mobile el navbar se reemplaza por un menu desple
 ![](./assets/imagen/wire-app-mobile8.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+User Goal.- Como dueño, deseo llevar a mis mascotas al veterinario
+En el siguiente wireflow se evidencia el proceso para programar y gestionar citas veterinarias.
+
+![](./assets/imagen/wireflow1.png)
+
+
+User Goal.- Como dueño, deseo mantener y organizar la documentación médica de mis mascotas.
+En el siguiente wireflow se evidencia el proceso para agregar y editar el perfil de una mascota.
+
+![](./assets/imagen/wireflow2.png)
+
+User Goal.- Como dueño, deseo buscar los historiales clínicos de mis mascotas.
+En el wireflow se evidencian los pasos para consultar el historial médico de una mascota.
+
+![](./assets/imagen/wireflow3.png)
+
+User Goal.- Como dueño, deseo actuar rápidamente en emergencias médicas. 
+En el wireflow se evidencia el proceso para consultar la ventana de notificaciones.
+
+![](./assets/imagen/wireflow4.png)
+
+
 ### 4.4.3. Web Applications Mock-ups
 
 Mock-up Desktop:
