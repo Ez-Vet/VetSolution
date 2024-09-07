@@ -18,6 +18,22 @@ Este apartado detalla las pautas de estilo generales y específicas para el dise
 
 ![](./assets/imagen/spacing.png)
 
+**Primary Colors** (Soft Purple y Greenish Cyan):
+
+Soft Purple (#7068C0): Este tono de morado suave evoca una sensación de calma y profesionalismo. Se utiliza para resaltar elementos clave y para darle a la aplicación un toque moderno y agradable sin ser abrumador.
+Greenish Cyan (#00BFB2): Este cian verdoso aporta frescura y vitalidad al diseño. Es ideal para destacar acciones importantes en la interfaz, como botones de llamada a la acción o secciones que requieren la atención del usuario.
+
+**Secondary Colors** (Lavender Gray y Light Cyan):
+
+Lavender Gray (#B9B9D2): Un gris lavanda que complementa los colores primarios, aportando un tono suave y neutro que ayuda a equilibrar el diseño, sin distraer la atención del contenido principal.
+Light Cyan (#8BDCD6): Un cian claro que se utiliza para crear espacios visuales limpios y agradables. Es perfecto para fondos o áreas de información secundaria, manteniendo la interfaz ligera y fácil de navegar.
+
+**Black/Grey Colors**:
+
+Estos tonos de negro y gris proporcionan un buen contraste para los textos, iconos, y otros elementos gráficos, asegurando legibilidad y claridad sin comprometer la estética moderna de la aplicación.
+
+En conjunto, esta paleta de colores no solo mejora la apariencia visual de Ez.vet, sino que también refuerza la percepción de una herramienta confiable y eficiente para veterinarios y dueños de mascotas. La elección de colores transmite serenidad y claridad, esenciales para un entorno clínico y de gestión de salud.
+
 ### 4.1.2. Web Style Guidelines
 Crearemos una aplicación que se adapte a cualquier dispositivo tecnológico, manteniendo la integridad del diseño del contenido. Para ello, tendremos en cuenta las características específicas de cada tipo de dispositivo, garantizando una estructura de contenido óptima para cada uno.
 
