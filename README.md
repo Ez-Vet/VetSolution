@@ -56,10 +56,66 @@ Un aspecto fundamental de nuestro diseño es la implementación del patrón en f
 ## 4.2. Information Architecture
 Esta sección aborda los elementos esenciales del contenido visual, los estilos, etiquetas, y otros aspectos importantes que se considerarán durante el desarrollo del sitio web y landing page.
 ### 4.2.1. Organization Systems
+
+**Estructura Jerárquica**
+![](./assets/imagen/organization-systems.png)
+
 ### 4.2.2. Labeling Systems
+Los sistemas de etiquetas intentan describir categorías, opciones y enlaces en un lenguaje comprensible a nuestros usuarios y sus clientes. Las etiquetas definidas son las siguientes:
+
+**Inicio.-** Página principal del sitio web
+**Sesión.-** Iniciada como usuario de tipo cliente o veterinario.
+**Nombre de Usuario.-** Valor único creado en registro
+**Contraseña.-** Clave creada en registro
+**Tienda.-** Catálogo de productos dividido en productos generales y farmacia.
+**Citas .-** Visitas veterinarias agendadas a ciertas fechas, en un local, para un paciente y con un doctor.
+**Correo .-** Dirección de correo electrónico
+**Ubicación .-** Dirección física de un local veterinario
+**Nosotros.-** Información relevante acerca del local veterinario junto con el producto ez.vet.
+
+
 ### 4.2.3. SEO Tags and Meta Tag
+
+**Palabra clave primaria.-** Veterinaria
+
+Etiquetas de optimización de búsqueda SEO y descripción Meta por página del sitio:
+
+**Landing page.-** Atención veterinaria profesional para mascotas - Tienda y Farmacia de animales.
+Sistema seguro para locales de veterinaria que facilita el servicio para los usuarios y clientes.
+
+**Citas.-** Agenda una cita veterinaria para tu mascota
+Horarios disponibles, consultas
+
+**Ingresar.-** Inicio de sesión ez.vet
+Registro a la plataforma - Login or Signup
+
+**Contacto.-** Contáctanos - Correo y Ubicación
+Correo electrónico y Ubicación de local.
+
+**Nosotros.-** Quienes somos - [nombre veterinaria] ez.vet
+Conoce a nuestros doctores y nuestro equipo.
+
+Además, las imágenes utilizadas llevan el atributo de texto Alt con descripciones breves.
+
+
 ### 4.2.4. Searching Systems
+
+Dentro de la aplicación web se consideran 3 sistemas de búsqueda dedicados.
+
+**Búsqueda general.-** Explora el contenido completo de la aplicación web.
+
+**Búsqueda Comunidad.-** Explora publicaciones de los foros en la sección comunidad.
+
+**Búsqueda de citas agendadas.-** Encuentra citas agendas en la sección citas.
+
+
 ### 4.2.5. Navigation Systems
+
+El landing page utiliza una barra de botones superior para su baja cantidad de opciones. La aplicación web utiliza una barra lateral como sistema de navegación dedicado a las secciones principales del aplicativo:
+
+**Inicio, Mascotas, Perfil, Citas, Comunidad. Botón de Notificaciones.**
+
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
