@@ -1,9 +1,22 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+Este apartado detalla las pautas de estilo generales y específicas para el diseño web de la aplicación Ez-vet.
 ### 4.1.1. General Style Guidelines
-Ez.vet tiene como meta principal ofrecer un sistema seguro para locales de veterinaria que facilite el servicio para los usuarios y clientes.
-<strong>Identidad por segmento:</strong>
+**Head**
 
+imagen
+
+**Body**
+
+imagen
+
+**Colors**
+
+imagen
+
+**Spacing**
+
+imagen
 
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
