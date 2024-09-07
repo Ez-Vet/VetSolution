@@ -209,12 +209,12 @@ link: <https://acortar.link/hZI08C>
 |**vet**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
-|id\_vet|string|identificación única del veterinario (llave primaria)|
-|id\_clinic|string|identificación única de la clínica (llave foránea)|
+|id_vet|string|identificación única del veterinario (llave primaria)|
+|id_clinic|string|identificación única de la clínica (llave foránea)|
 |name|string|Nombre del veterinario |
 |specialty|string|Especialidad del veterinario|
-|num\_license|int|Número de licencia del veterinario|
-|work\_schedule|string|Horario de trabajo registrado del veterinario|
+|num_license|int|Número de licencia del veterinario|
+|work_schedule|string|Horario de trabajo registrado del veterinario|
 
 
 
