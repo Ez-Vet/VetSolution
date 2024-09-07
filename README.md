@@ -383,7 +383,7 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 Durante el transcurso de este sprint, todos participamos de forma activa y constante en la creación de las tareas asignadas. A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
-![](assets/img/commits.png)
+![Participacíon](Assets/participación.jpg)
 # Conclusiones
 
 - Durante el desarrollo de la Landing Page, el equipo de EzVet ha logrado implementar con éxito las funcionalidades y características planificadas, proporcionando una experiencia de usuario sólida y coherente.
