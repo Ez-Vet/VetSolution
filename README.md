@@ -242,12 +242,12 @@ link: <https://acortar.link/hZI08C>
 |**pay**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
-|id\_pay|int|identificación única de pago (llave primaria)|
-|id\_payment\_proof|int|identificación única del comprobante de pago(llave foránea) |
+|id_pay|int|identificación única de pago (llave primaria)|
+|id_payment_proof|int|identificación única del comprobante de pago(llave foránea) |
 |date|int|Fecha del pago registrado|
 |amount|int|Monto del pago registrado|
-|payment\_method|string|método de pago registrado|
-|transaction\_status|string|estado de la transacción realizada|
+|payment_method|string|método de pago registrado|
+|transaction_status|string|estado de la transacción realizada|
 
 |**products**|||
 | :- | :- | :- |
