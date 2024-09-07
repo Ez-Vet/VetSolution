@@ -119,6 +119,18 @@ El landing page utiliza una barra de botones superior para su baja cantidad de o
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+**Wireframe Destkop:**
+
+![](./assets/imagen/Group%207315.png)
+![](./assets/imagen/Desk2-fire.png)
+![](./assets/imagen/Desk3-fire.png)
+![](./assets/imagen/Desk4-fire.png)
+
+**Wireframe Mobile:**
+
+ En la versión mobile el navbar se reemplaza por un menu desplegable.
+
 ![](./assets/imagen/wire-landing1.png)
 
 ![](./assets/imagen/wire-landing2.png)
@@ -132,11 +144,23 @@ El landing page utiliza una barra de botones superior para su baja cantidad de o
 ![](./assets/imagen/wire-landing6.png)
 
 
+
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+Wireframe Destkop:
+Wireframe Mobile En la versión mobile el navbar se reemplaza por un menu desplegable.
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
+**Mock-up Destkop:**
+
+![](./assets/imagen/Group%207323.png)
+![](./assets/imagen/Group%207318.png)
+![](./assets/imagen/Group%207322.png)
+![](./assets/imagen/Group%207320.png)
+![](./assets/imagen/Group%207321.png)
+
+**Mock-up Mobile:** En la versión mobile el navbar se reemplaza por un menu desplegable.
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
