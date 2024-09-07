@@ -19,6 +19,10 @@ imagen
 imagen
 
 ### 4.1.2. Web Style Guidelines
+Crearemos una aplicación que se adapte a cualquier dispositivo tecnológico, manteniendo la integridad del diseño del contenido. Para ello, tendremos en cuenta las características específicas de cada tipo de dispositivo, garantizando una estructura de contenido óptima para cada uno.
+
+Un aspecto fundamental de nuestro diseño es la implementación del patrón en forma de Z, que orienta al usuario de forma intuitiva desde la esquina superior izquierda hasta la inferior derecha, facilitando un acceso rápido y eficiente a la información clave.
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
