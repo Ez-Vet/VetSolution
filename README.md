@@ -396,6 +396,11 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 ## Video About-the-Team.
 No se entrega 
 # Bibliografía
+- Bigby, G. (2023) Organizing Your Website with Information Architecture Methods.  Dyno Mapper: https://dynomapper.com/blog/19-ux/268-information-architecture-methods
+- Microsoft (2024) Microsoft Writing Style Guide. Microsoft Learn: https://learn.microsoft.com/en-us/style-guide/welcome/ 
+- Venmo (2021) Venmo Brand Guideline. Paypal, Inc. : https://venmo.com/about/brand/
+- EzVet. (2024, 8 enero). EZVET - EZVET. EzVet - Plano de Prevenção E Bem-estar Para Pets. https://ezvet.com.br/
+- Clínica Veterinaria – Clínica especializada en Veterinaria. (s. f.). https://cimevet.com.pe/
 
 # Anexos
 - Anexo 1: [Organización en GitHub]()
