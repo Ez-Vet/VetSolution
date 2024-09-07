@@ -58,3 +58,59 @@ Tácticas:
 1. ¿En medio de algún tratamiento cambiaste de veterinario?
 1. ¿Qué opinas de tener la historia clínica en una aplicación?
 1. ¿Usarías una aplicación como la descrita?
+### <a name="_toc175363808"></a><a name="_toc176478908"></a>**2.2.2. Registro de entrevistas**
+   ***Segmento 1: Médicos Veterinarios***
+
+   **Entrevistado N°1: Jasmin Flores**
+
+- **Sexo: Femenino** 
+- **Edad: 26**
+- **Domicilio: San Miguel** 
+
+**Entrevista:** 
+
+- <a name="_hlk176441569"></a>**Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EQ-ZYy2RvYpNgt1Qfy9tHTUByB1wTz3kGVrQscVWHWam9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=j1mdQ7>** 
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 4:49 min**
+
+**Resumen:**
+
+La doctora Jasmín nos comenta que en la veterinaria donde trabaja, solo tienen un usuario que se puede abrir en varios dispositivos para completar las historias clínicas. Lo que le agrada de esta aplicación es que está diseñada específicamente para el trabajo en veterinarias, con campos adaptados a cada especie o raza. Sin embargo, lo que no le gusta es que, aunque algunos campos no son obligatorios, tener que pasarlos para completar la historia clínica toma más tiempo del que desearía.
+
+![](./feat_img/7.png)
+
+**Entrevistado N°2: Erick Monzón**
+
+- **Sexo: Masculino** 
+- **Edad: 30**
+- **Domicilio: Magdalena del Mar** 
+
+**Entrevista:** 
+
+- **Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EbCW9J6OzTFKoDAHzGbfWzEBpDcpUG7M16WiUuDkC7iPMA>** 
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 6:22 min**
+
+**Resumen:**
+
+El Doctor Erick nos comenta que en su trabajo utilizan VetPraxis, principalmente porque es una aplicación muy reconocida y muchas veterinarias la emplean. Sin embargo, señala que tiene ciertas deficiencias, especialmente en lo que respecta a la eficiencia. Una de las principales críticas que hace es la inclusión de numerosos campos obligatorios que considera innecesarios, como el teléfono de trabajo, RUC, enlaces a redes sociales como Facebook e Instagram, y otros detalles que realmente no son relevantes para la atención al cliente. Esto se traduce en un proceso de creación de historias clínicas que puede tomar entre 7 y 10 minutos, un tiempo excesivo, especialmente en situaciones de emergencia donde la rapidez es crucial. Erick enfatiza que uno de los cambios que realizaría de manera prioritaria sería la eliminación de estos campos superfluos, para agilizar el proceso y hacer la aplicación más eficiente.  
+
+![](./feat_img/8.png)
+
+**Entrevistado N°3: Vanesa Gómez** 
+
+- **Sexo: Femenino**
+- **Edad: 25**
+- **Domicilio: Lince** 
+
+**Entrevista:** 
+
+- **Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EYY7QpIHFxlDh0ksAmySO-kB1yHNDLGTJPHi61WTR0jlWg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JeOE4m>** 
+- **Momento en el que Inicia:**
+- **Duración: 6:58 min**
+
+**Resumen:**
+
+La doctora Vanesa comenta que en su trabajo actual utilizan VetPraxis, principalmente porque es la aplicación más conocida entre las veterinarias. Sin embargo, en su trabajo anterior, usaban fichas en papel, que luego archivaban en un Excel donde guardaban el número de historia clínica y el nombre de la mascota para facilitar la búsqueda posterior. Al igual que el doctor Erick, Vanesa no está satisfecha con los campos innecesarios que VetPraxis requiere, ya que le toma entre 10 y 15 minutos crear una historia clínica, lo cual considera excesivo. En su anterior trabajo, también encontraba ineficiente el método físico, ya que la letra a veces no era legible o las historias se traspapelaban, lo que causaba molestias a los clientes. Vanesa cambiaría estos campos innecesarios que ralentizan el proceso de creación de historias clínicas en VetPraxis.
+
+![](./feat_img/9.png)
