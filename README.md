@@ -360,19 +360,29 @@ Durante el primer sprint, el equipo se centró en desarrollar una landing page q
 En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services.
 
 Primero, se mostrarán los commits más importantes para el Reporte, los cuales muestran el ciclo de vida del proyecto, y toda la información que se usó, usa y usará para el desarrollo del proyecto:
+| Repository          | Branch  | Commit ID                                | Commit Message                           | Commit Message Body                                                                                                                                 | Commited on (Date) |
+|---------------------|---------|------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| VetSolution/Report | develop | 98783487238973c5dd4a8097197adb2cf70af00a | feat: added content in chapter IV        | added content in all sections of chapter04                                                                                                          | 4/9/2024           |
+| VetSolution/Report | master  | 889cdc0229a96aa9fca4641ebfccccd71f0d7a5a | feat(assets)                             | added img to master branch                                                                                                                          | 4/9/2024           |
+
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.5. Execution Evidence for Sprint Review
 En esta entrega, el equipo de desarrolladores de VetSolutions ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
-
+![Evidencia1](assets/img/Evidencia1.png)
+![Evidencia2](assets/img/Evidencia2.png)
+![Evidencia3](assets/img/Evidencia3.png)
+![Evidencia4](assets/img/Evidencia4.png)
+![Evidencia5](assets/img/Evidencia5.png)
+![Evidencia6](assets/img/Evidencia6.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.8. Team Collaboration Insights during Sprint
-Durante el transcurso de este sprint, todos participamos de forma activa y constante en la creación de las tareas asignadas. Presentamos evidencia de los progresos individuales:
+Durante el transcurso de este sprint, todos participamos de forma activa y constante en la creación de las tareas asignadas. A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
 
 # Conclusiones
 
