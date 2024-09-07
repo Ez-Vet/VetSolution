@@ -303,16 +303,16 @@ link: <https://acortar.link/hZI08C>
 |**dog_breeds**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
-|id\_breeds|int|identificación única de la raza (llave primaria)|
-|id\_species|int |identificación única de la especie (llave foránea)|
-|name\_breeds|string|nombre asociado a una raza|
-|description\_breeds|string|descripción textual de las características de una raza|
+|id_breeds|int|identificación única de la raza (llave primaria)|
+|id_species|int |identificación única de la especie (llave foránea)|
+|name_breeds|string|nombre asociado a una raza|
+|description_breeds|string|descripción textual de las características de una raza|
 
 |**crosses**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
-|id\_race|int|identificación única de la raza (llave foránea)|
-|id\_patient|int |identificación única de un paciente (llave foránea)|
+|id_race|int|identificación única de la raza (llave foránea)|
+|id_patient|int |identificación única de un paciente (llave foránea)|
 |description_crosses|string|descripción textual de las características del cruce|
 
 |**species**|||
