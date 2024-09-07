@@ -285,22 +285,22 @@ link: <https://acortar.link/hZI08C>
 |**atributo**|**tipo de dato**|**descripción** |
 |id\_treatments|int|identificación única del tratamiento (llave primaria)|
 |date|int|fecha del tratamiento registrado|
-|type\_treatments|string|tipo de tratamiento registrado|
+|type_treatments|string|tipo de tratamiento registrado|
 |grades|string|notas del tratamiento registrado|
 |cost|int|costo del tratamiento registrado|
 
 |**patients**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
-|id\_paciente|int|identificación única del paciente (llave primaria)|
-|id\_owner|int |identificación única del usuario (llave foránea)|
-|pet\_name|string|nombre de la mascota registrada|
-|date\_ofbirth |int|fecha de nacimiento de la mascota registrado|
+|id_paciente|int|identificación única del paciente (llave primaria)|
+|id_owner|int |identificación única del usuario (llave foránea)|
+|pet_name|string|nombre de la mascota registrada|
+|date_ofbirth |int|fecha de nacimiento de la mascota registrado|
 |age|int|La edad de la mascota se expresa en años, meses y días.|
 |sex|string|sexo de la mascota registrada|
 |weight|int |peso de la mascota registrada|
 
-|**dog\_breeds**|||
+|**dog_breeds**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
 |id\_breeds|int|identificación única de la raza (llave primaria)|
