@@ -4,11 +4,11 @@ Este apartado detalla las pautas de estilo generales y específicas para el dise
 ### 4.1.1. General Style Guidelines
 **Head**
 
-imagen
+![](./assets/imagen/Head.png)
 
 **Body**
 
-imagen
+![](./assets/imagen/Body.png)
 
 **Colors**
 
