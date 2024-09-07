@@ -26,7 +26,7 @@ Ez.vet tiene como meta principal ofrecer un sistema seguro para locales de veter
 Se presentan tres niveles del modelo C4 en el proyecto para tener un mejor enfoque del proyecto que se desarrolla.
 ### 4.6.1. Software Architecture Context Diagram
 El diagrama de contexto presenta una visión global de ez.vet, destacando las principales interacciones entre el sistema y los actores externos. ez.vet cuenta con dos tipos de usuarios principales: dueños de mascotas y veterinarios. Además, interactúa con dos sistemas externos clave: Payment System para realizar pagos y Email System para enviar emails de verificación.
-<img src="/assets/img/structurizr-94942-Contexto.png" alt="Context Diagram" width="100%">
+![](./assets/imagen/Contenedor.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
  El diagrama de contenedores detalla los principales componentes del sistema y cómo se relacionan entre sí. ez.vet consta de los siguientes elementos clave: Aplicación Web y la landing page. Además  realizan llamadas a una API central (Api Application), que sirve como el motor que procesa las solicitudes y gestiona la lógica de negocio. También se visualizan las tecnologías específicas que se usarán en el desarrollo de la aplicación web, como frameworks front-end, back-end, bases de datos, entre otros.
