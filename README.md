@@ -111,6 +111,7 @@ Sobre el producto:
 
 #### **1.2.2.4. Lean UX Canvas**
 ![](./assets/img/7.jpeg)
+
 ## <a name="_toc175363801"></a><a name="_toc176478901"></a>**1.3. Segmentos Objetivos**
    ***Segmentos Objetivo 1 – Clínicas Veterinarias***
 
