@@ -172,3 +172,17 @@ La doctora Vanesa comenta que en su trabajo actual utilizan VetPraxis, principal
 ![](./feat_img/21.png)
 
 
+### <a name="_toc175363809"></a><a name="_toc176478909"></a>**2.2.3. Análisis de Entrevistas**
+   ***Segmento 1: Médicos Veterinarios***
+
+- El 100% de los entrevistados utilizan software de gestión en sus clínicas veterinarias. Dos de ellos (66.7%) emplean VetPraxis debido a su reconocimiento en el mercado, mientras que uno (33.3%) utiliza otro software específico para veterinarias.
+- El 100% de los veterinarios expresaron preocupaciones sobre el tiempo que toma completar las historias clínicas. El 66.7% de ellos reportaron que el proceso puede tomar entre 7 y 15 minutos, lo cual consideran excesivo. Esto destaca la necesidad de soluciones más eficientes.
+- El 100% de los entrevistados mencionaron insatisfacción con la eficiencia del software que utilizan. Todos ellos señalaron la presencia de campos innecesarios que complican el proceso de creación de historias clínicas.
+- El 33.3% de los entrevistados aprecian que el software esté adaptado a las necesidades específicas de las veterinarias, con campos diseñados para cada especie o raza. Sin embargo, incluso en estos casos, la eficiencia sigue siendo una preocupación.
+
+***Segmento 2: Dueños de Mascotas***
+
+- El 50% de los entrevistados lleva a su mascota al veterinario entre una y dos veces al año, aunque la frecuencia podría aumentar si su mascota presentara algún problema de salud. El otro 50% visita al veterinario regularmente, con una frecuencia de una vez cada tres meses para su gata y una vez al mes para el baño de su perra.
+- El 100% de los entrevistados han enfrentado dificultades para localizar o mantener organizados los documentos médicos de sus mascotas. Uno de ellos no recuerda dónde guardó la carpeta con la documentación médica, mientras que el otro ha perdido cartillas de vacunación y exámenes en más de una ocasión.
+- El 100% de los entrevistados mostraron interés en utilizar una aplicación móvil para gestionar la información médica de sus mascotas. Consideran que tener acceso digital al historial médico facilitaría las visitas al veterinario y mejoraría la respuesta en caso de emergencias.
+
