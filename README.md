@@ -186,3 +186,57 @@ La doctora Vanesa comenta que en su trabajo actual utilizan VetPraxis, principal
 - El 100% de los entrevistados han enfrentado dificultades para localizar o mantener organizados los documentos médicos de sus mascotas. Uno de ellos no recuerda dónde guardó la carpeta con la documentación médica, mientras que el otro ha perdido cartillas de vacunación y exámenes en más de una ocasión.
 - El 100% de los entrevistados mostraron interés en utilizar una aplicación móvil para gestionar la información médica de sus mascotas. Consideran que tener acceso digital al historial médico facilitaría las visitas al veterinario y mejoraría la respuesta en caso de emergencias.
 
+## <a name="_toc175363810"></a><a name="_toc176478910"></a>**2.3. Needfinding**
+   ### <a name="_toc175363811"></a><a name="_toc176478911"></a>**2.3.1. User Personas**    ***Segmento 1: Médicos Veterinarios***
+
+  ![](./feat_img/13.png)
+
+  ***Segmento 2: Dueños de Mascotas***
+
+  ![](./feat_img/14.png)
+  ### <a name="_toc175363813"></a><a name="_toc176478912"></a>**2.3.2. User Task Matrix**
+  ***Segmento 1: Médicos Veterinarios***
+
+|**Vanesa Gómez Suarez**|||
+| :-: | :- | :- |
+|**Actividades**|**Frecuencia**|**Importancia**|
+|Crear y actualizar historias clínicas de pacientes	|Alta|Alta|
+|Completar campos necesarios en el software	|Alta|Alta|
+|Acceder y buscar historiales clínicos de mascotas	|Alta|Alta|
+|Programar y gestionar citas veterinarias	|Media|Alta|
+|Archivar y organizar documentación médica|Media|Media|
+|Resolver problemas de legibilidad y traspaleo de documentos|Media|Alta|
+|Mejorar la eficiencia del proceso de documentación|Media|Alta|
+|Atender a clientes de manera rápida y eficiente|Alta|Alta|
+
+***Segmento 2: Dueños de Mascotas***
+
+|**Lucerito Guzmán León**|||
+| :-: | :- | :- |
+|**Actividades**|**Frecuencia**|**Importancia**|
+|Llevar a sus mascotas al veterinario|Alta|Alta|
+|Programar y gestionar citas veterinarias|Alta|Alta|
+|Mantener y organizar documentación médica de sus mascotas|Alta|Alta|
+|Buscar historiales clínicos de sus mascotas|Media|Alta|
+|Cambiar de veterinaria cuando sea necesario|Baja|Media|
+|Actuar rápidamente en emergencias médicas|Media|Alta|
+|Almacenar y respaldar información médica digital y física|Alta|Alta|
+
+### <a name="_toc175363814"></a><a name="_toc176478913"></a>**2.3.3. User Journey Mapping**
+   ***Segmento 1: Médicos Veterinarios***
+
+   ![](./feat_img/15.png)
+
+
+   ***Segmento 2: Dueños de mascotas***
+
+   ![](./feat_img/16.png)
+
+### <a name="_toc175363815"></a><a name="_toc176478914"></a>**2.3.4. Empathy Mapping**
+   ***Segmento 1: Médicos Veterinarios***
+
+   ![](./feat_img/17.png)
+
+   ***Segmento 2: Dueños de mascotas***
+
+   ![](./feat_img/18.png)
