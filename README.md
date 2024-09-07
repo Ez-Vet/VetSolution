@@ -226,14 +226,14 @@ link: <https://acortar.link/hZI08C>
 |**diagnoses**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
-|id\_diagnoses|int|identificación única de un diagnóstico (llave primaria)|
-|name\_diagnoses|string|nombre de un diagnóstico.|
-|details\_diagnoses|string|detalle textual de un diagnóstico |
+|id_diagnoses|int|identificación única de un diagnóstico (llave primaria)|
+|name_diagnoses|string|nombre de un diagnóstico.|
+|details_diagnoses|string|detalle textual de un diagnóstico |
 
 |**propetaries**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
-|id\_propetaries|int|identificación única del propietario (llave primaria)|
+|id_propetaries|int|identificación única del propietario (llave primaria)|
 |lastname|string|Apellidos del usuario|
 |email|string|Correo electronico  del usuario|
 |password|int|Contraseña del usuario|
