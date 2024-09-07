@@ -72,7 +72,7 @@
   ## Project Report Collaboration Insights
 A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
 
-**URL del Repositorio del Informe:**  
+**URL del Repositorio del Informe:** <https://github.com/Ez-Vet> 
 
 **Entrega N°1: TB1**
 <br>
