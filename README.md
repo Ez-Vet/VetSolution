@@ -12,7 +12,7 @@ imagen
 
 **Colors**
 
-imagen
+![](./assets/imagen/colors.png)
 
 **Spacing**
 
