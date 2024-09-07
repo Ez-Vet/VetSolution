@@ -1,5 +1,13 @@
 # <a name="_toc176478917"></a><a name="_hlk176118348"></a>**3. Capítulo III: Requirements Specification**
    ## <a name="_toc176478918"></a>**3.1. To-Be Scenario Mapping**
+
+  ***Segmento 1: Médicos Veterinarios***
+    ![](./assets/img/Tobe1.jpeg)
+
+  ***Segmento 2: Dueños de Mascotas***
+  ![](./assets/img/Tobe2.jpeg)
+
+
    ## <a name="_toc176169123"></a><a name="_toc176478919"></a>**3.2. User Stories**
 
 |<p>**Epic / Story**</p><p>**ID**</p>|**Título**|**Descripción**|<p>**Criterios de**</p><p>**Aceptación**</p>|<p>**Relacionado**</p><p>**con (Epic ID)**</p>|
@@ -25,6 +33,7 @@
 
 ## **<a name="_toc176478920"></a>3.3. Impact Mapping**
 ## <a name="_toc176169125"></a><a name="_toc176478921"></a>**3.4. Product Backlog**
+![](./assets/img/Impactmap.png)
 
 |# Orden|User Story Id|Título|Descripción|<p>Story Points</p><p>(1 / 2 / 3 / 5</p><p>/ 8)</p>|
 | :-: | :-: | :-: | :-: | :-: |
