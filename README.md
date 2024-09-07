@@ -131,11 +131,10 @@ El landing page utiliza una barra de botones superior para su baja cantidad de o
 
  En la versión mobile el navbar se reemplaza por un menu desplegable.
 
-![](./assets/imagen/wire-landing-mobile1.png)
-![](./assets/imagen/wire-landing-mobile2.png)
-![](./assets/imagen/wire-landing-mobile3.png)
-![](./assets/imagen/wire-landing-mobile4.png)
-![](./assets/imagen/wire-landing-mobile5.png)
+![](./assets/imagen/mobile1.png)
+![](./assets/imagen/mobile2.png)
+![](./assets/imagen/mobile3.png)
+![](./assets/imagen/mobile4.png)
 
 
 
