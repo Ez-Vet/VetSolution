@@ -172,10 +172,6 @@ link: <https://acortar.link/hZI08C>
 ## 4.8. Database Design
 Para el esquema de base de datos se utilizó LucidChart: 
 ## 4.8.1. Database Diagram
-link: <https://acortar.link/0aN0eC> 
-<<<<<<< HEAD
-![](./assets/imagen/Blank%20diagram%20(1).png)
-=======
->>>>>>> 045971085cb671d5ae90febe06b01963d8773763
 
->>>>>>> cfe1a5a7ee3e16e83d5d97fe1259fc0ba53e7220
+![](./assets/imagen/Blank%20diagram%20(1).png)
+link: <https://acortar.link/0aN0eC> 
