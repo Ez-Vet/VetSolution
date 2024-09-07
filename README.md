@@ -10,25 +10,20 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
     * ### Trello:
       Una aplicación de gestión de proyectos que facilita el seguimiento de las tareas individuales de cada miembro del equipo de manera sencilla. <br>
       [Link De Registro o Inicio De Sesión](https://trello.com/es)<br>
-      Imagen para mostrar evidencia de uso:
-      ![trello-image-grupo](assets/img/project-management-trello.png)
+      
       *  ### Microsoft Teams
        una plataforma unificada de comunicación y colaboración que combina chat persistente en el lugar de trabajo, reuniones de video, almacenamiento de archivos e integración de aplicaciones. <br>
         [Link De Registro o Inicio De Sesión](https://www.microsoft.com/es-pe/)
-      Imagen para mostrar evidencia de uso:
-      ![microsoft-teams-image-userpersona](assets/img/evidencia-microsoft-teams.png)
 
 - ### Requirement Management:
     * ### Miro:
       Un sistema que ofrece una amplia gama de plantillas diseñadas para abordar diversos aspectos en la creación y gestión de proyectos. <br>
       [Link De Registro o Inicio De Sesión](https://miro.com/es/login/)
-      Imagen para mostrar evidencia de uso:
-      ![Miro-image-userpersona](assets/img/evidencia-miro.png)
+      
     * ### UXPressia:
       Es una herramienta en línea que simplifica el proceso de mapeo y comprensión de las necesidades del cliente en un proyecto determinado. <br>
       [Link De Registro o Inicio De Sesión](https://uxpressia.com)
-      Imagen para mostrar evidencia de uso:
-      ![uxpressia-image-userpersona](assets/img/evidencia-uxpressia.png)
+      
     * ### Structurizr:
       Se trata de una suite de herramientas que posibilita la creación colaborativa de modelos C4 para representar de forma gráfica nuestros productos. <br>
       [Link De Registro o Inicio De Sesión](https://structurizr.com)
@@ -39,24 +34,20 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
     * ### LucidChart:
       Una herramienta colaborativa que posibilita la creación conjunta de wireframes flow y mockups flow. <br>
       [Link De Registro o Inicio De Sesión ](https://www.lucidchart.com/pages/es)
-      Imagen para mostrar evidencia de uso:
-      ![lucidchart-image-userpersona](assets/img/evidencia-lucidchart.png)
+      
 - ###  Software Development:
     * ### HTML5:
       Es un lenguaje de etiquetado utilizado para crear la estructura a páginas web. Lo utilizamos para incluir componentes como texto, imágenes, enlaces, botones y videos en nuestras páginas web. <br>
       [Información Relacionada](https://www.esic.edu/rethink/tecnologia/html5-que-es-caracteristicas-y-como-funciona-c#:~:text=El%20HTML5%20es%20un%20estándar,%2C%20estilo%20de%20letra%2C%20etc.)
-      Imagen para mostrar evidencia de uso:
-      ![uxpressia-image-userpersona](assets/img/html-evidencia.png)
+      
     * ### CSS:
       Un lenguaje de diseño gráfico utilizado para dar formato y estilo a la presentación de un documento escrito en HTML. <br>
       [Información Relacionada](https://developer.mozilla.org/es/docs/Web/CSS)
-      Imagen para mostrar evidencia de uso:
-      ![uxpressia-image-userpersona](assets/img/evidencia-css.png)
+      
     * ### JavaScript:
       Un lenguaje de programación orientado a objetos dinámico que utilizamos para implementar funcionalidades en un documento HTML. <br>
       [Información Relacionada]( https://developer.mozilla.org/es/docs/Web/JavaScript )
-      Imagen para mostrar evidencia de uso:
-      ![uxpressia-image-userpersona](assets/img/evidencia-uxpressia.png)
+      
     * ### WebStorm:
       Un entorno de desarrollo integrado (IDE) que emplearemos para trabajar con JavaScript. <br>
       [Link De Descarga]( https://www.jetbrains.com/es-es/webstorm/)
@@ -75,10 +66,9 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
       
 ### 5.1.2. Source Code Management
 
-Landing Page Repository: [Landing Page Repository](https://github.com/los-seniors-v2/LandingPageFlexPal.git)
+Landing Page Repository: [Landing Page Repository](link)
 - #### GitFlow Implementation:
 Para implementar el flujo de trabajo Gitflow utilizando Git como nuestra herramienta de control de versiones, nos basamos en la entrada de blog "A successful Git branching model" de Vincent Driessen. Esta referencia nos permitió establecer las convenciones detalladas que serán aplicadas en nuestro proyecto 
-![gitflow](assets/img/team_collab_ins.png)
 
 ### **Master o Main branch**
 La rama principal de desarrollo del proyecto es la Master branch. En esta rama reside el código que actualmente se encuentra en producción.
