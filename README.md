@@ -114,3 +114,61 @@ El Doctor Erick nos comenta que en su trabajo utilizan VetPraxis, principalmente
 La doctora Vanesa comenta que en su trabajo actual utilizan VetPraxis, principalmente porque es la aplicación más conocida entre las veterinarias. Sin embargo, en su trabajo anterior, usaban fichas en papel, que luego archivaban en un Excel donde guardaban el número de historia clínica y el nombre de la mascota para facilitar la búsqueda posterior. Al igual que el doctor Erick, Vanesa no está satisfecha con los campos innecesarios que VetPraxis requiere, ya que le toma entre 10 y 15 minutos crear una historia clínica, lo cual considera excesivo. En su anterior trabajo, también encontraba ineficiente el método físico, ya que la letra a veces no era legible o las historias se traspapelaban, lo que causaba molestias a los clientes. Vanesa cambiaría estos campos innecesarios que ralentizan el proceso de creación de historias clínicas en VetPraxis.
 
 ![](./feat_img/9.png)
+
+***Segmento 2: Dueños de Mascotas***
+
+**Entrevistado N°1: Sebastián Silva**
+
+- **Sexo: Masculino**
+- **Edad: 20**
+- **Domicilio: San Luis** 
+
+**Entrevista:** 
+
+- **Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/Ec1XInM48xNOvR2jbzHkwuABf9CG5aosdZClZOwqh0nyYw>** 
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 6:58 min**
+
+**Resumen:**
+
+`	`Sebastián nos comenta que lleva a su mascota al veterinario entre una y dos veces al año, aunque si su gato presentara algún malestar, lo llevaría con mayor frecuencia. Con su perro, solía ir una vez a la semana debido a una infección en el oído. Sebastián mencionó que no recuerda dónde dejó la carpeta con toda la documentación médica de su mascota y que le gustaría tener una aplicación donde pudiera almacenar todo el historial médico de sus mascotas. De esta manera, podría actuar más rápidamente en caso de una emergencia, ya que tendría la información disponible en su celular. A pesar de esto, seguiría utilizando el formato físico como respaldo para no perder ningún registro de las atenciones a sus mascotas.
+
+![](./feat_img/10.png)
+
+**Entrevistado N°2: Lucerito Guzmán**
+
+- **Sexo: Femenino** 
+- **Edad: 22 años**
+- **Domicilio: Callao**
+
+**Entrevista:** 
+
+- **Link: <a name="_hlk176441682"></a><https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EQxyGm-xOy9Gixk9iwdU5-4B7_sjaOllyMTn6QX3f6py1Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=aOWtoD>** 
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 7:10 min**	
+
+**Resumen:**
+
+`	`Lucerito nos comenta que visita al veterinario con bastante regularidad: una vez cada tres meses por su gata pequeña y una vez al mes para bañar a su perra. Ha tenido problemas con la pérdida de cartillas de vacunación, exámenes y otros documentos relacionados con sus gatas adultas. Además, ha cambiado de veterinaria en dos o tres ocasiones por diferentes razones, lo que le ha generado confusión sobre los productos utilizados en el baño de su perra y la marca de las vacunas administradas. Por estos motivos, está totalmente a favor de utilizar una aplicación como ez.vet, ya que le facilitaría acceder a la historia clínica de sus mascotas.
+
+![](./feat_img/11.png)
+
+**Entrevistado N°3:**
+
+- **Sexo: Femenino**
+- **Edad:19**
+- **Domicilio: Surco** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EdLeJQNC0zlOtk2xPH342PgBlev9nHaaM7CVIZbloEn-cg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=3m9TdR**
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 2:34 min**
+
+**Resumen:**
+
+`	`Camila nos cuenta que tiene un gatito y lo lleva al veterinario cada seis meses para chequeos regulares. Si su mascota se enferma, acude con mayor frecuencia. Hasta ahora, no ha perdido su cartilla de vacunación, aunque reconoce que podría ocurrir en el futuro. Ella ha cambiado de veterinaria, y en ese proceso le pidieron nuevamente los exámenes que ya había realizado. Al no contar con los resultados, tuvo que repetirlos. Camila considera excelente la idea de una aplicación como la descrita, ya que le permitiría mantener todo más organizado y reducir las posibilidades de perder la cartilla o los exámenes.
+
+![](./feat_img/21.png)
+
+
