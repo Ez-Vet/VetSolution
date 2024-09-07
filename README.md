@@ -354,7 +354,7 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 
 ### 5.2.X. Sprint 
 
-#### 5.2.X.1. Sprint Planning n
+#### 5.2.X.1. Sprint Planning 
 En la siguiente sección, se presentará el sprint #1 con la versión inicial del trabajo para la entrega del proyecto, detallando la organización, distribución y resultados de la landing page.
 
 |Sprint # |Date |Time |Location |Prepared By |Attendees|
@@ -363,7 +363,7 @@ En la siguiente sección, se presentará el sprint #1 con la versión inicial de
 |Sprint 1 Goal |Sprint 1 Velocity |Sum of Story Points||||
 |Elaborar y diseñar el landing page informativa para la aplicación Ez-Vet|<p>12</p><p></p>|12||||
 
-#### 5.2.X.2. Sprint Backlog n
+#### 5.2.X.2. Sprint Backlog 
 Durante el primer sprint, el equipo se centró en desarrollar una landing page que fuera tanto atractiva como funcional, organizando y distribuyendo tareas en el tablero de Sprint de acuerdo con las habilidades de cada integrante.
 
 #### 5.2.X.3. Development Evidence for Sprint Review
