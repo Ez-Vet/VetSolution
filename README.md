@@ -34,8 +34,10 @@
 |**US013**|Contacto a través de la Landing Page|Como visitante, deseo contactar al equipo para obtener más información sobre los servicios|<p>**Escenario 1:**<br>**Dado** que soy un visitante,<br>**Cuando** lleno el formulario de contacto,<br>**Entonces** debería recibir una confirmación de que el mensaje fue enviado correctamente.</p><p>**Escenario 2:**<br>**Dado** que soy un visitante,<br>**Cuando** no completo todos los campos obligatorios del formulario,<br>**Entonces** debería ver un mensaje de error solicitando completar la información.</p>|US012|
 
 ## **<a name="_toc176478920"></a>3.3. Impact Mapping**
-## <a name="_toc176169125"></a><a name="_toc176478921"></a>**3.4. Product Backlog**
+
 ![](./assets/img/Impactmap.png)
+
+## <a name="_toc176169125"></a><a name="_toc176478921"></a>**3.4. Product Backlog**
 
 |# Orden|User Story Id|Título|Descripción|<p>Story Points</p><p>(1 / 2 / 3 / 5</p><p>/ 8)</p>|
 | :-: | :-: | :-: | :-: | :-: |
