@@ -252,17 +252,17 @@ link: <https://acortar.link/hZI08C>
 |**products**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
-|id\_products|int|identificación única del producto (llave primaria)|
+|id_products|int|identificación única del producto (llave primaria)|
 |name|string|nombre del producto|
 |<p></p><p>description</p>|string|descripción del producto |
 |stock|int|si esta disponible el producto  |
 |price|int|precio del producto |
 
-|**treatment\_assignments**|||
+|**treatment_assignments**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
-|id\_vet|int|identificación única del veterinario (llave foránea)|
-|id\_treatment|int|identificación única del tratamiento (llave foránea)|
+|id_vet|int|identificación única del veterinario (llave foránea)|
+|id_treatment|int|identificación única del tratamiento (llave foránea)|
 
 |**payment_receipts**|||
 | :- | :- | :- |
