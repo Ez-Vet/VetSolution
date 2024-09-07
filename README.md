@@ -61,8 +61,9 @@ Las personas elegirán Ez.vet por la facilidad con la que podrán completar los 
 ` `Los clientes recurrirán a nuestro producto cuando necesiten una solución eficiente y fácil de usar para gestionar las operaciones de su clínica veterinaria. Esto abarca escenarios en los que buscan una herramienta que simplifique la administración de historiales clínicos, controle el inventario y facilite la comunicación con los dueños de mascotas. Además, lo utilizarán cuando necesiten una aplicación que les permita acceder y compartir información médica de manera rápida y sin complicaciones, especialmente en un entorno donde el tiempo y la precisión son fundamentales.
 ### ` `**<a name="_toc175363800"></a><a name="_toc176478900"></a>1.2.2. Lean UX Process**
   #### **1.2.2.1. Lean UX Problem Statements**
-La aplicación Ez.vet está diseñada para abordar la necesidad de una herramienta integral que simplifique la gestión diaria en las clínicas veterinarias. Con una interfaz intuitiva y fácil de usar, la aplicación busca eliminar las complicaciones y dificultades relacionadas con la administración de diversos aspectos de la práctica veterinaria en un solo lugar, permitiendo que tanto veterinarios como dueños de mascotas accedan de manera rápida y sencilla a la información relevante.
-#### **1.2.2.2. Lean UX Assumptions**
+  La aplicación Ez.vet está diseñada para abordar la necesidad de una herramienta integral que simplifique la gestión diaria en las clínicas veterinarias. Con una interfaz intuitiva y fácil de usar, la aplicación busca eliminar las complicaciones y dificultades relacionadas con la administración de diversos aspectos de la práctica veterinaria en un solo lugar, permitiendo que tanto veterinarios como dueños de mascotas accedan de manera rápida y sencilla a la información relevante.
+
+  #### **1.2.2.2. Lean UX Assumptions**
 Sobre el producto:
 
 1. ¿Quién es el usuario?
@@ -89,7 +90,7 @@ Sobre el producto:
 
    Las características principales incluyen una interfaz fácil de usar en dispositivos móviles, computadoras y laptops. Además, es esencial eliminar campos innecesarios o obligatorios que puedan complicar el proceso de registro.
 
-  #### **1.2.2.3. Lean UX Hypothesis Statements**
+#### **1.2.2.3. Lean UX Hypothesis Statements**
 
   **Creemos** que si diseñamos una aplicación intuitiva que permita a los veterinarios gestionar historiales clínicos y recordatorios de manera eficiente
 
