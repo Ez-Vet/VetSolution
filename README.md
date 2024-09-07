@@ -147,7 +147,7 @@ El landing page utiliza una barra de botones superior para su baja cantidad de o
 ![](./assets/imagen/Group%207320.png)
 ![](./assets/imagen/Group%207321.png)
 
-**Mock-up Mobile:** En la versión mobile el navbar se reemplaza por un menu desplegable.
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 Wireframe Destkop:
