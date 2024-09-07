@@ -89,78 +89,28 @@ Sobre el producto:
 
    Las características principales incluyen una interfaz fácil de usar en dispositivos móviles, computadoras y laptops. Además, es esencial eliminar campos innecesarios o obligatorios que puedan complicar el proceso de registro.
 
-   #### **1.2.2.3. Lean UX Hypothesis Statements**
+  #### **1.2.2.3. Lean UX Hypothesis Statements**
 
-**Creemos** que si diseñamos una aplicación intuitiva que permita a los veterinarios gestionar historiales clínicos y recordatorios de manera eficiente
+  **Creemos** que si diseñamos una aplicación intuitiva que permita a los veterinarios gestionar historiales clínicos y recordatorios de manera eficiente
 
-**Sabremos** que hemos tenido éxito cuando observemos un aumento en la eficiencia operativa y una reducción en el tiempo dedicado a tareas administrativas en las clínicas veterinarias
+  **Sabremos** que hemos tenido éxito cuando observemos un aumento en la eficiencia operativa y una reducción en el tiempo dedicado a tareas administrativas en las clínicas veterinarias
 
-**Cuando** las clínicas adopten nuestra aplicación y reporten mejoras en su flujo de trabajo diario, habremos validado nuestra hipótesis.
+  **Cuando** las clínicas adopten nuestra aplicación y reporten mejoras en su flujo de trabajo diario, habremos validado nuestra hipótesis.
 
-**Creemos** que al ofrecer una plataforma que facilite el acceso a la historia clínica de las mascotas para los dueños
+  **Creemos** que al ofrecer una plataforma que facilite el acceso a la historia clínica de las mascotas para los dueños
 
-**Sabremos** que nuestra solución es efectiva cuando recibamos comentarios positivos de los usuarios sobre la facilidad de acceso y la utilidad de la información médica compartida
+  **Sabremos** que nuestra solución es efectiva cuando recibamos comentarios positivos de los usuarios sobre la facilidad de acceso y la utilidad de la información médica compartida
 
-**Cuando** los dueños de mascotas utilicen la aplicación para consultar y manejar la salud de sus animales sin problemas, habremos confirmado que estamos resolviendo una necesidad real
+  **Cuando** los dueños de mascotas utilicen la aplicación para consultar y manejar la salud de sus animales sin problemas, habremos confirmado que estamos resolviendo una necesidad real
 
-**Creemos** que si eliminamos los campos obligatorios innecesarios y simplificamos el proceso de registro en la aplicación
+  **Creemos** que si eliminamos los campos obligatorios innecesarios y simplificamos el proceso de registro en la aplicación
 
-**Sabremos** que hemos logrado nuestro objetivo cuando los usuarios experimenten una mayor satisfacción y una reducción en los errores de entrada de datos
+  **Sabremos** que hemos logrado nuestro objetivo cuando los usuarios experimenten una mayor satisfacción y una reducción en los errores de entrada de datos
 
-**Cuando** tanto veterinarios como propietarios de mascotas reporten una experiencia de usuario fluida y sin frustraciones, habremos validado que nuestra aplicación cumple con las expectativas de simplicidad y funcionalidad.
+  **Cuando** tanto veterinarios como propietarios de mascotas reporten una experiencia de usuario fluida y sin frustraciones, habremos validado que nuestra aplicación cumple con las expectativas de simplicidad y funcionalidad.
 
 #### **1.2.2.4. Lean UX Canvas**
-
-
-Problem Statement:
-
-`   `- Qué: Falta de una aplicación intuitiva para gestionar las diversas operaciones de las clínicas veterinarias.
-
-`   `- Cuándo: Cuando las clínicas veterinarias carecen de una herramienta que integre y gestione eficientemente las áreas esenciales de su operación.
-
-`   `- Dónde: Clínicas veterinarias que requieren una solución centralizada.
-
-`   `- Por qué: Las aplicaciones existentes no son lo suficientemente flexibles para cubrir todas las necesidades como la gestión de historiales clínicos, control de inventarios y comunicación con los dueños de mascotas.
-
-Assumptions
-
-`   `- Los usuarios principales son las clínicas veterinarias y los dueños de mascotas.
-
-`   `- La aplicación se utiliza en la rutina diaria de las clínicas para gestionar operaciones y facilitar el acceso a la información por parte de los dueños.
-
-`   `- Los problemas clave que enfrenta el usuario incluyen la falta de una plataforma integrada y la dificultad de acceder a información clínica.
-
-Hypothesis
-
-`   `- Creemos que diseñar una aplicación intuitiva que permita a los veterinarios gestionar historiales clínicos y recordatorios aumentará la eficiencia operativa y reducirá el tiempo dedicado a tareas administrativas.
-
-`   `- Sabremos que hemos tenido éxito cuando observemos mejoras en el flujo de trabajo diario de las clínicas y comentarios positivos de los usuarios.
-
-Users & Customers
-
-`   `- Segmento 1: Clínicas veterinarias que buscan optimizar su gestión operativa.
-
-`   `- Segmento 2: Dueños de mascotas que necesitan acceso rápido y eficiente a la información médica de sus mascotas.
-
-User Benefits
-
-`   `- Simplificación y centralización de la gestión clínica.
-
-`   `- Acceso fácil y rápido a la información de salud de las mascotas.
-
-Business Outcomes
-
-`   `- Mayor confianza en la gestión clínica.
-
-`   `- Reducción de errores y tiempos de espera en la administración.
-
-What's the most important thing we need to learn first?
-
-`   `- Validar que la aplicación mejora la eficiencia y satisface las necesidades de los usuarios (clínicas y dueños de mascotas).
-
-What's the least amount of work we need to do to learn the next most important thing?
-
-`   `- Realizar encuestas y pruebas de uso con clínicas veterinarias y dueños de mascotas para obtener retroalimentación temprana.
+![](./assets/img/7.jpeg)
 ## <a name="_toc175363801"></a><a name="_toc176478901"></a>**1.3. Segmentos Objetivos**
    ***Segmentos Objetivo 1 – Clínicas Veterinarias***
 
