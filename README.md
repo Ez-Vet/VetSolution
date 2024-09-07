@@ -119,7 +119,7 @@ El landing page utiliza una barra de botones superior para su baja cantidad de o
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
-
+**LINK** <https://www.figma.com/design/U3HFzRFzbx3daXfD7m18YZ/VetSolution?node-id=119-1454&t=zrvowpSeCVpQm1T2-1>
 **Wireframe Destkop:**
 
 ![](./assets/imagen/Group%207315.png)
@@ -204,7 +204,7 @@ En el wireflow se evidencia el proceso para consultar la ventana de notificacion
 
 
 ### 4.4.3. Web Applications Mock-ups
-
+**LINK** <https://www.figma.com/design/U3HFzRFzbx3daXfD7m18YZ/VetSolution?node-id=119-1454&t=zrvowpSeCVpQm1T2-1>
 Mock-up Desktop:
 ![](./assets/imagen/mockup-app1.png)
 ![](./assets/imagen/mockup-app2.png)
