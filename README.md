@@ -218,21 +218,15 @@ link: <https://acortar.link/hZI08C>
 |**quotes**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
-|id\_quotes|int|identificación única de la cita (llave primaria)|
-|id\_patient|int |identificación única del paciente (llave foránea)|
-|id\_vet|int |Identidad única del veterinario (llave foránea)|
-|id\_pay|int|identificación única del pago (llave foránea)|
+|id_quotes|int|identificación única de la cita (llave primaria)|
+|id_patient|int |identificación única del paciente (llave foránea)|
+|id_vet|int |Identidad única del veterinario (llave foránea)|
+|id_pay|int|identificación única del pago (llave foránea)|
 |date|int|Fecha de cita registrada|
 |hour |int|Hora de la cita registrada|
 |duration|int|Duración de la cita registrada|
 |reason|string|<p>Motivo de la cita</p><p>registrada</p>|
 |state|string|Estado|
-
-
-
-
-
-
 
 |**diagnoses**|||
 | :- | :- | :- |
