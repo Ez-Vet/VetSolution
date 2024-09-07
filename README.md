@@ -132,13 +132,9 @@ El landing page utiliza una barra de botones superior para su baja cantidad de o
  En la versión mobile el navbar se reemplaza por un menu desplegable.
 
 ![](./assets/imagen/wire-landing-mobile1.png)
-
 ![](./assets/imagen/wire-landing-mobile2.png)
-
 ![](./assets/imagen/wire-landing-mobile3.png)
-
 ![](./assets/imagen/wire-landing-mobile4.png)
-
 ![](./assets/imagen/wire-landing-mobile5.png)
 
 
@@ -176,26 +172,12 @@ Wireframe Destkop:
 Wireframe Mobile En la versión mobile el navbar se reemplaza por un menu desplegable.
 
 ![](./assets/imagen/wire-app-mobile1.png)
-
-
 ![](./assets/imagen/wire-app-mobile2.png)
-
-
 ![](./assets/imagen/wire-app-mobile3.png)
-
-
 ![](./assets/imagen/wire-app-mobile4.png)
-
-
 ![](./assets/imagen/wire-app-mobile5.png)
-
-
 ![](./assets/imagen/wire-app-mobile6.png)
-
-
 ![](./assets/imagen/wire-app-mobile7.png)
-
-
 ![](./assets/imagen/wire-app-mobile8.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
