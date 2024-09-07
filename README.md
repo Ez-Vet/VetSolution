@@ -39,3 +39,22 @@ Tácticas:
 - Se recogerán y publicarán testimonios y casos de éxito de usuarios satisfechos que hayan logrado mejoras significativas en la gestión veterinaria. Estos testimonios se emplearán en campañas de marketing y en el sitio web de la aplicación para fortalecer la credibilidad y atraer nuevos clientes.
 
 
+## <a name="_toc175363806"></a><a name="_toc176478906"></a>**2.2. Entrevistas**
+   ### <a name="_toc175363807"></a><a name="_toc176478907"></a>**2.2.1. Diseño de Entrevistas**
+  ***Segmento 1: Médicos Veterinarios***
+
+1. ¿Conoces alguna aplicación de gestión veterinaria? ¿Cuál es?
+1. ¿Lo escogieron por alguna razón es especial?
+1. ¿Fue la primera aplicación que usaron?
+1. ¿Qué es lo que te gusta de esa aplicación?
+1. ¿Qué te disgusta de esa aplicación?
+1. ¿Qué sería una de las cosas que si o si cambiarias?
+
+***Segmento 2: Dueños de Mascotas***
+
+1. ¿Con que frecuencia vas al veterinario?
+1. ¿Qué método usas para llevar el control de tu mascota?
+1. ¿Alguna vez perdiste los documentos?
+1. ¿En medio de algún tratamiento cambiaste de veterinario?
+1. ¿Qué opinas de tener la historia clínica en una aplicación?
+1. ¿Usarías una aplicación como la descrita?
