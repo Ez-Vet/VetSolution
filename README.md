@@ -112,7 +112,7 @@ Sobre el producto:
 #### **1.2.2.4. Lean UX Canvas**
 
 <img src="assets/img/canva.png" style="width: 50%;"/>
-
+dd
 
 Problem Statement:
 
