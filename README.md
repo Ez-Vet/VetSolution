@@ -184,6 +184,12 @@ Wireframe Mobile En la versión mobile el navbar se reemplaza por un menu desple
 ### 4.4.3. Web Applications Mock-ups
 
 Mock-up Desktop:
+![](./assets/imagen/mockup-app1.png)
+![](./assets/imagen/mockup-app2.png)
+![](./assets/imagen/mockup-app3.png)
+![](./assets/imagen/mockup-app4.png)
+![](./assets/imagen/mockup-app5.png)
+![](./assets/imagen/mockup-app6.png)
 
 
 Mock-up Mobile:
