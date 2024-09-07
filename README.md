@@ -111,7 +111,7 @@ Sobre el producto:
 
 #### **1.2.2.4. Lean UX Canvas**
 
-<img src="![canva](Canva-1.png)"></img><br>
+<img src="c:\Users\sebas\OneDrive\Documentos\Aplicaciones Web Ez-Vet\VetSolution\assets\img\canva.png"></img><br>
 
 
 Problem Statement:
