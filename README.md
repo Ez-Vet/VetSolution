@@ -58,6 +58,7 @@ Esta sección aborda los elementos esenciales del contenido visual, los estilos,
 ### 4.2.1. Organization Systems
 
 **Estructura Jerárquica**
+
 ![](./assets/imagen/organization-systems.png)
 
 ### 4.2.2. Labeling Systems
@@ -118,6 +119,19 @@ El landing page utiliza una barra de botones superior para su baja cantidad de o
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+![](./assets/imagen/wire-landing1.png)
+
+![](./assets/imagen/wire-landing2.png)
+
+![](./assets/imagen/wire-landing3.png)
+
+![](./assets/imagen/wire-landing4.png)
+
+![](./assets/imagen/wire-landing5.png)
+
+![](./assets/imagen/wire-landing6.png)
+
+
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
