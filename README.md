@@ -169,7 +169,7 @@ La doctora Vanesa comenta que en su trabajo actual utilizan VetPraxis, principal
 
 `	`Camila nos cuenta que tiene un gatito y lo lleva al veterinario cada seis meses para chequeos regulares. Si su mascota se enferma, acude con mayor frecuencia. Hasta ahora, no ha perdido su cartilla de vacunación, aunque reconoce que podría ocurrir en el futuro. Ella ha cambiado de veterinaria, y en ese proceso le pidieron nuevamente los exámenes que ya había realizado. Al no contar con los resultados, tuvo que repetirlos. Camila considera excelente la idea de una aplicación como la descrita, ya que le permitiría mantener todo más organizado y reducir las posibilidades de perder la cartilla o los exámenes.
 
-![](./feat_img/21.png)
+![](./assets/img/21.png)
 
 
 ### <a name="_toc175363809"></a><a name="_toc176478909"></a>**2.2.3. Análisis de Entrevistas**
@@ -189,7 +189,7 @@ La doctora Vanesa comenta que en su trabajo actual utilizan VetPraxis, principal
 ## <a name="_toc175363810"></a><a name="_toc176478910"></a>**2.3. Needfinding**
    ### <a name="_toc175363811"></a><a name="_toc176478911"></a>**2.3.1. User Personas**    ***Segmento 1: Médicos Veterinarios***
 
-  ![](./feat_img/13.png)
+  ![](./assets/img/13.png)
 
   ***Segmento 2: Dueños de Mascotas***
 
