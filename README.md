@@ -355,6 +355,13 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 ### 5.2.X. Sprint 
 
 #### 5.2.X.1. Sprint Planning n
+En la siguiente sección, se presentará el sprint #1 con la versión inicial del trabajo para la entrega del proyecto, detallando la organización, distribución y resultados de la landing page.
+
+|Sprint # |Date |Time |Location |Prepared By |Attendees|
+| :- | :- | :- | :- | :- | :- |
+|1|1/09/2024 |9:00 pm|Reunión mediante Meet|Sebastian Matias Escobar Palomino|Diego Bastidas, Estrella Ticona , Sebastian De Las Casas, Johan Bottger|
+|Sprint 1 Goal |Sprint 1 Velocity |Sum of Story Points||||
+|Elaborar y diseñar el landing page informativa para la aplicación Ez-Vet|<p>12</p><p></p>|12||||
 
 #### 5.2.X.2. Sprint Backlog n
 
