@@ -16,7 +16,7 @@ imagen
 
 **Spacing**
 
-imagen
+![](./assets/imagen/spacing.png)
 
 ### 4.1.2. Web Style Guidelines
 Crearemos una aplicación que se adapte a cualquier dispositivo tecnológico, manteniendo la integridad del diseño del contenido. Para ello, tendremos en cuenta las características específicas de cada tipo de dispositivo, garantizando una estructura de contenido óptima para cada uno.
