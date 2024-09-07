@@ -25,21 +25,21 @@ Ez.vet tiene como meta principal ofrecer un sistema seguro para locales de veter
 Se presentan tres niveles del modelo C4 en el proyecto para tener un mejor enfoque del proyecto que se desarrolla.
 ### 4.6.1. Software Architecture Context Diagram
 El diagrama de contexto presenta una visión global de ez.vet, destacando las principales interacciones entre el sistema y los actores externos. ez.vet cuenta con dos tipos de usuarios principales: dueños de mascotas y veterinarios. Además, interactúa con dos sistemas externos clave: Payment System para realizar pagos y Email System para enviar emails de verificación.
-![](./assets/imagen/Contenedor.png)
+![](./assets/imagen/Contexo.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
  El diagrama de contenedores detalla los principales componentes del sistema y cómo se relacionan entre sí. ez.vet consta de los siguientes elementos clave: Aplicación Web y la landing page. Además  realizan llamadas a una API central (Api Application), que sirve como el motor que procesa las solicitudes y gestiona la lógica de negocio. También se visualizan las tecnologías específicas que se usarán en el desarrollo de la aplicación web, como frameworks front-end, back-end, bases de datos, entre otros.
-<img src="/assets/imagen/Contenedor.png" alt="Container Diagrams" width="100%">
+![](./assets/imagen/Contenedor.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 Este diagrama profundiza en la API Application, mostrando sus diferentes Bounded Contexts. Cada contexto delimitado representa un área funcional del sistema, con responsabilidades claras y separadas. Proporciona una vista más detallada de cómo se organiza la lógica de negocio dentro de la aplicación y cómo los distintos módulos interactúan entre sí para cumplir con los requisitos funcionales del sistema.
-<img src="/assets/img/structurizr-94942-API Rest Component Diagram.png" alt="Components Diagrams" width="100%">
+![](./assets/imagen/structurizr-94942-API%20Rest%20Component%20Diagram.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 el diagrama de clases se realizó con la ayuda de la herramienta LucidChart
 link: <https://acortar.link/hZI08C>
-<img src="/assets/img/Strategy and planning.png" alt="Class Diagrams" width="100%">
+![](./assets/imagen/Strategy%20and%20planning.png)
 
 ### 4.7.2. Class Dictionary
 |**vet**|||
@@ -173,4 +173,9 @@ link: <https://acortar.link/hZI08C>
 Para el esquema de base de datos se utilizó LucidChart: 
 ## 4.8.1. Database Diagram
 link: <https://acortar.link/0aN0eC> 
+<<<<<<< HEAD
+![](./assets/imagen/Blank%20diagram%20(1).png)
+=======
 >>>>>>> 045971085cb671d5ae90febe06b01963d8773763
+
+>>>>>>> cfe1a5a7ee3e16e83d5d97fe1259fc0ba53e7220
