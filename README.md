@@ -227,6 +227,24 @@ Mock-up Mobile:
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
+
+**Leyenda:**
+
+![](./assets/imagen/userflow0.png)
+
+**Ingreso**
+
+![](./assets/imagen/userflow1.png)
+
+**Agendar Cita**
+
+![](./assets/imagen/userflow2.png)
+
+**Registro y Edición de Mascotas**
+
+![](./assets/imagen/userflow3.png)
+
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 Se presentan tres niveles del modelo C4 en el proyecto para tener un mejor enfoque del proyecto que se desarrolla.
