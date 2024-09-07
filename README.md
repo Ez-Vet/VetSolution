@@ -24,3 +24,18 @@
 <tr><td><b>Oportunidades</b></td><td>Expansión en el mercado de clínicas veterinarias pequeñas y medianas</td><td>Crecimiento en el segmento de clínicas grandes y asociaciones veterinarias</td><td>Expansión en el mercado de usuarios móviles y propietarios de mascotas</td><td>Penetración en el mercado de clínicas veterinarias pequeñas</td></tr>
 <tr><td><b>Amenazas</b></td><td>Competencia de otras plataformas con características similares</td><td>Competencia con soluciones de bajo costo o gratuitas</td><td>Alta competencia en aplicaciones móviles para la salud de mascotas</td><td>Competencia de soluciones más avanzadas para clínicas grandes</td></tr>
 </table>
+
+
+### <a name="_toc175363805"></a><a name="_toc176478905"></a>**2.1.2. Estrategias y tácticas frente a competidores**
+
+Estrategias: 
+
+Para destacar en el mercado, Ez.vet se enfocará en ofrecer una interfaz excepcionalmente intuitiva y fácil de usar, diferenciándose de las soluciones más complejas y difíciles de manejar. Además, se distinguirá por su valor añadido al incluir características exclusivas, como la personalización de historiales clínicos y recordatorios adaptados a las necesidades particulares de cada clínica y propietario de mascotas.
+
+Tácticas: 
+
+- Se llevarán a cabo demostraciones personalizadas en clínicas veterinarias para mostrar de forma práctica las ventajas de la plataforma. Asimismo, se ofrecerán períodos de prueba gratuita para que los usuarios puedan experimentar los beneficios de Ez.vet sin ningún compromiso.
+
+- Se recogerán y publicarán testimonios y casos de éxito de usuarios satisfechos que hayan logrado mejoras significativas en la gestión veterinaria. Estos testimonios se emplearán en campañas de marketing y en el sitio web de la aplicación para fortalecer la credibilidad y atraer nuevos clientes.
+
+
