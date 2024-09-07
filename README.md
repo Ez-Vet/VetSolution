@@ -111,7 +111,7 @@ Sobre el producto:
 
 #### **1.2.2.4. Lean UX Canvas**
 
-<img src="![alt text](Canva-1.png)"></img><br>
+<img src="![canva](Canva-1.png)"></img><br>
 
 
 Problem Statement:
