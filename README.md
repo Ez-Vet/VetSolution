@@ -235,11 +235,11 @@ La doctora Vanesa comenta que en su trabajo actual utilizan VetPraxis, principal
 ### <a name="_toc175363815"></a><a name="_toc176478914"></a>**2.3.4. Empathy Mapping**
    ***Segmento 1: Médicos Veterinarios***
 
-   ![](./feat_img/17.png)
+   ![](./assets/img/17.png)
 
    ***Segmento 2: Dueños de mascotas***
 
-   ![](./feat_img/18.png)
+   ![](./assets/img/18.png)
 
 ### <a name="_toc175363816"></a><a name="_toc176478915"></a>**2.3.5. As-is Scenario Mapping**
    ***Segmento 1: Médicos Veterinarios***
