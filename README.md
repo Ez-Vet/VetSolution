@@ -215,7 +215,18 @@ link: <https://acortar.link/hZI08C>
 |specialty|string|Especialidad del veterinario|
 |num_license|int|Número de licencia del veterinario|
 |work_schedule|string|Horario de trabajo registrado del veterinario|
-
+|**quotes**|||
+| :- | :- | :- |
+|**atributo**|**tipo de dato**|**descripción** |
+|id\_quotes|int|identificación única de la cita (llave primaria)|
+|id\_patient|int |identificación única del paciente (llave foránea)|
+|id\_vet|int |Identidad única del veterinario (llave foránea)|
+|id\_pay|int|identificación única del pago (llave foránea)|
+|date|int|Fecha de cita registrada|
+|hour |int|Hora de la cita registrada|
+|duration|int|Duración de la cita registrada|
+|reason|string|<p>Motivo de la cita</p><p>registrada</p>|
+|state|string|Estado|
 
 
 
