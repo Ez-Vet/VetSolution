@@ -193,7 +193,7 @@ La doctora Vanesa comenta que en su trabajo actual utilizan VetPraxis, principal
 
   ***Segmento 2: Dueños de Mascotas***
 
-  ![](./feat_img/14.png)
+  ![](./assets/img/14.png)
   ### <a name="_toc175363813"></a><a name="_toc176478912"></a>**2.3.2. User Task Matrix**
   ***Segmento 1: Médicos Veterinarios***
 
@@ -225,12 +225,12 @@ La doctora Vanesa comenta que en su trabajo actual utilizan VetPraxis, principal
 ### <a name="_toc175363814"></a><a name="_toc176478913"></a>**2.3.3. User Journey Mapping**
    ***Segmento 1: Médicos Veterinarios***
 
-   ![](./feat_img/15.png)
+   ![](./assets/img/15.png)
 
 
    ***Segmento 2: Dueños de mascotas***
 
-   ![](./feat_img/16.png)
+   ![](./assets/img/16.png)
 
 ### <a name="_toc175363815"></a><a name="_toc176478914"></a>**2.3.4. Empathy Mapping**
    ***Segmento 1: Médicos Veterinarios***
