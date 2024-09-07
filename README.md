@@ -111,3 +111,64 @@ Sobre el producto:
 
 #### **1.2.2.4. Lean UX Canvas**
 
+
+Problem Statement:
+
+`   `- Qué: Falta de una aplicación intuitiva para gestionar las diversas operaciones de las clínicas veterinarias.
+
+`   `- Cuándo: Cuando las clínicas veterinarias carecen de una herramienta que integre y gestione eficientemente las áreas esenciales de su operación.
+
+`   `- Dónde: Clínicas veterinarias que requieren una solución centralizada.
+
+`   `- Por qué: Las aplicaciones existentes no son lo suficientemente flexibles para cubrir todas las necesidades como la gestión de historiales clínicos, control de inventarios y comunicación con los dueños de mascotas.
+
+Assumptions
+
+`   `- Los usuarios principales son las clínicas veterinarias y los dueños de mascotas.
+
+`   `- La aplicación se utiliza en la rutina diaria de las clínicas para gestionar operaciones y facilitar el acceso a la información por parte de los dueños.
+
+`   `- Los problemas clave que enfrenta el usuario incluyen la falta de una plataforma integrada y la dificultad de acceder a información clínica.
+
+Hypothesis
+
+`   `- Creemos que diseñar una aplicación intuitiva que permita a los veterinarios gestionar historiales clínicos y recordatorios aumentará la eficiencia operativa y reducirá el tiempo dedicado a tareas administrativas.
+
+`   `- Sabremos que hemos tenido éxito cuando observemos mejoras en el flujo de trabajo diario de las clínicas y comentarios positivos de los usuarios.
+
+Users & Customers
+
+`   `- Segmento 1: Clínicas veterinarias que buscan optimizar su gestión operativa.
+
+`   `- Segmento 2: Dueños de mascotas que necesitan acceso rápido y eficiente a la información médica de sus mascotas.
+
+User Benefits
+
+`   `- Simplificación y centralización de la gestión clínica.
+
+`   `- Acceso fácil y rápido a la información de salud de las mascotas.
+
+Business Outcomes
+
+`   `- Mayor confianza en la gestión clínica.
+
+`   `- Reducción de errores y tiempos de espera en la administración.
+
+What's the most important thing we need to learn first?
+
+`   `- Validar que la aplicación mejora la eficiencia y satisface las necesidades de los usuarios (clínicas y dueños de mascotas).
+
+What's the least amount of work we need to do to learn the next most important thing?
+
+`   `- Realizar encuestas y pruebas de uso con clínicas veterinarias y dueños de mascotas para obtener retroalimentación temprana.
+## <a name="_toc175363801"></a><a name="_toc176478901"></a>**1.3. Segmentos Objetivos**
+   ***Segmentos Objetivo 1 – Clínicas Veterinarias***
+
+   Este segmento está compuesto por clínicas veterinarias de todos los tamaños, desde pequeñas prácticas hasta grandes centros veterinarios con múltiples especialistas. Las clínicas veterinarias modernas enfrentan la necesidad de mejorar la eficiencia en la gestión de sus operaciones diarias, ya que suelen manejar grandes volúmenes de información médica de distintas mascotas, además de gestionar inventarios, citas y relaciones con los dueños de las mascotas.
+
+   Actualmente, muchas clínicas siguen utilizando métodos manuales, hojas de cálculo o sistemas de gestión que no están completamente adaptados a las necesidades del sector veterinario. Esto genera ineficiencias operativas que afectan la productividad del personal y la experiencia de los clientes, incrementando el tiempo de espera y los errores en la documentación.
+
+   ***Segmentos Objetivo 2 – Dueño de Mascotas*** 
+
+   Este segmento está formado por dueños de mascotas que buscan soluciones fáciles y convenientes para gestionar la salud de sus animales. Muchos de ellos son propietarios jóvenes y tecnológicos que ya están acostumbrados a utilizar aplicaciones móviles para gestionar varios aspectos de su vida diaria, y ven con buenos ojos el uso de herramientas digitales para el cuidado de sus mascotas. Sin embargo, también incluye a dueños de mascotas que pueden no estar tan familiarizados con la tecnología pero que buscan una forma más sencilla de gestionar toda la información relacionada con la salud de sus animales.
+
