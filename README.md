@@ -313,14 +313,14 @@ link: <https://acortar.link/hZI08C>
 |**atributo**|**tipo de dato**|**descripción** |
 |id\_race|int|identificación única de la raza (llave foránea)|
 |id\_patient|int |identificación única de un paciente (llave foránea)|
-|description\_crosses|string|descripción textual de las características del cruce|
+|description_crosses|string|descripción textual de las características del cruce|
 
 |**species**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
-|id\_species|int |identificación única de la especie (llave primaria)|
-|name\_species|string|nombre asociado a una especie|
-|species\_description|string|descripción textual de las características de una especie.|
+|id_species|int |identificación única de la especie (llave primaria)|
+|name_species|string|nombre asociado a una especie|
+|species_description|string|descripción textual de las características de una especie.|
 
 ## 4.8. Database Design
 Para el esquema de base de datos se utilizó LucidChart: 
