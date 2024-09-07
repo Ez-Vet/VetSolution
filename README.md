@@ -36,6 +36,18 @@ Estos tonos de negro y gris proporcionan un buen contraste para los textos, icon
 
 En conjunto, esta paleta de colores no solo mejora la apariencia visual de Ez.vet, sino que también refuerza la percepción de una herramienta confiable y eficiente para veterinarios y dueños de mascotas. La elección de colores transmite serenidad y claridad, esenciales para un entorno clínico y de gestión de salud.
 
+**Brand Overview**
+
+Ez.vet es una aplicación digital innovadora diseñada específicamente para clínicas veterinarias, que transforma la manera en que los veterinarios gestionan sus operaciones internas y se conectan con los dueños de mascotas. En un entorno donde la eficiencia y la comunicación transparente son esenciales para el éxito de los servicios veterinarios, Ez.vet se presenta como la solución perfecta que facilita la organización de historiales clínicos, la gestión de inventarios y la programación de recordatorios. Además, Ez.vet permite a los propietarios de mascotas acceder a la información clínica de sus animales en cualquier momento, fortaleciendo la relación y la confianza entre la clínica y sus clientes.
+
+**Brand Name**
+
+El nombre "Ez.vet" combina de manera estratégica dos conceptos clave: "Easy" (fácil) y "Vet" (veterinario). Este nombre encapsula la misión principal de la aplicación: hacer más fácil y accesible la gestión de las clínicas veterinarias, mejorando la eficiencia operativa y la experiencia tanto de los veterinarios como de los dueños de mascotas. "Ez.vet" es moderno, corto y fácil de recordar, lo que refuerza su identidad en el mercado de servicios veterinarios, destacando como una herramienta esencial para la gestión clínica en el ámbito digital.
+
+A continuación, se presenta el logo o marca de nuestra solución propuesta.
+
+![](./assets/imagen/Ezvet.png)
+
 ### 4.1.2. Web Style Guidelines
 Crearemos una aplicación que se adapte a cualquier dispositivo tecnológico, manteniendo la integridad del diseño del contenido. Para ello, tendremos en cuenta las características específicas de cada tipo de dispositivo, garantizando una estructura de contenido óptima para cada uno.
 
