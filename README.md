@@ -351,10 +351,10 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 2. Agregar a participantes
 
 ## 5.2. Landing Page, Services & Applications Implementation
-
-### 5.2.X. Sprint 
-
-#### 5.2.X.1. Sprint Planning 
+La implementación de la página de inicio, los servicios y las aplicaciones es un paso fundamental en nuestro proceso de desarrollo. Nos permite materializar el diseño y la funcionalidad planificados, transformando los conceptos en productos tangibles y listos para su uso. Esta fase nos permite traducir las especificaciones y requisitos en código, desarrollando la estructura de la página, los servicios y las aplicaciones de acuerdo con las necesidades identificadas.
+### 5.2.1. Sprint 
+El primer sprint es un hito importante en nuestro proceso de desarrollo ágil. Durante este período, nos enfocamos en la implementación de las características y funcionalidades prioritarias identificadas en la planificación inicial. Esto implica traducir los requisitos y especificaciones en código funcional, desarrollando las bases de nuestro producto de manera iterativa.
+#### 5.2.1.1. Sprint Planning 
 En la siguiente sección, se presentará el sprint #1 con la versión inicial del trabajo para la entrega del proyecto, detallando la organización, distribución y resultados de la landing page.
 
 |Sprint # |Date |Time |Location |Prepared By |Attendees|
@@ -363,20 +363,25 @@ En la siguiente sección, se presentará el sprint #1 con la versión inicial de
 |Sprint 1 Goal |Sprint 1 Velocity |Sum of Story Points||||
 |Elaborar y diseñar el landing page informativa para la aplicación Ez-Vet|<p>12</p><p></p>|12||||
 
-#### 5.2.X.2. Sprint Backlog 
+#### 5.2.1.2. Sprint Backlog 
 Durante el primer sprint, el equipo se centró en desarrollar una landing page que fuera tanto atractiva como funcional, organizando y distribuyendo tareas en el tablero de Sprint de acuerdo con las habilidades de cada integrante.
 
-#### 5.2.X.3. Development Evidence for Sprint Review
+#### 5.2.1.3. Development Evidence for Sprint Review
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services.
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review
+Primero, se mostrarán los commits más importantes para el Reporte, los cuales muestran el ciclo de vida del proyecto, y toda la información que se usó, usa y usará para el desarrollo del proyecto:
 
-#### 5.2.X.5. Execution Evidence for Sprint Review
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+#### 5.2.1.5. Execution Evidence for Sprint Review
+En esta entrega, el equipo de desarrolladores de VetSolutions ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review
-
-#### 5.2.X.8. Team Collaboration Insights during Sprint
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 Durante el transcurso de este sprint, todos participamos de forma activa y constante en la creación de las tareas asignadas. Presentamos evidencia de los progresos individuales:
 
 # Conclusiones
