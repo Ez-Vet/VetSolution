@@ -21,11 +21,13 @@ Este apartado detalla las pautas de estilo generales y específicas para el dise
 **Primary Colors** (Soft Purple y Greenish Cyan):
 
 Soft Purple (#7068C0): Este tono de morado suave evoca una sensación de calma y profesionalismo. Se utiliza para resaltar elementos clave y para darle a la aplicación un toque moderno y agradable sin ser abrumador.
+
 Greenish Cyan (#00BFB2): Este cian verdoso aporta frescura y vitalidad al diseño. Es ideal para destacar acciones importantes en la interfaz, como botones de llamada a la acción o secciones que requieren la atención del usuario.
 
 **Secondary Colors** (Lavender Gray y Light Cyan):
 
 Lavender Gray (#B9B9D2): Un gris lavanda que complementa los colores primarios, aportando un tono suave y neutro que ayuda a equilibrar el diseño, sin distraer la atención del contenido principal.
+
 Light Cyan (#8BDCD6): Un cian claro que se utiliza para crear espacios visuales limpios y agradables. Es perfecto para fondos o áreas de información secundaria, manteniendo la interfaz ligera y fácil de navegar.
 
 **Black/Grey Colors**:
