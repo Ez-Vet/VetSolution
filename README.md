@@ -385,9 +385,20 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 Durante el transcurso de este sprint, todos participamos de forma activa y constante en la creación de las tareas asignadas. Presentamos evidencia de los progresos individuales:
 
 # Conclusiones
-## Conclusiones y recomendaciones
-## Video About-the-Team.
 
+- Durante el desarrollo de la Landing Page, el equipo de EzVet ha logrado implementar con éxito las funcionalidades y características planificadas, proporcionando una experiencia de usuario sólida y coherente.
+- La implementación de la Landing Page ha permitido al equipo demostrar su capacidad para traducir los requisitos y especificaciones en código funcional, desarrollando una estructura sólida y un diseño visual atractivo.
+- La colaboración y el trabajo en equipo han sido fundamentales para el éxito del proyecto, permitiendo a los miembros del equipo compartir conocimientos, habilidades y recursos para lograr los objetivos establecidos.
+- La implementación de la Landing Page ha sentado las bases para el desarrollo de la Web Application, que se espera completar en etapas posteriores del proyecto.
+- El uso de herramientas de gestión de proyectos como Trello y GitHub ha facilitado la planificación, el seguimiento y la colaboración en el desarrollo del proyecto, permitiendo al equipo mantenerse organizado y enfocado en los objetivos.
+- El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
+
+## Video About-the-Team.
+No se entrega 
 # Bibliografía
 
 # Anexos
+- Anexo 1: [Organización en GitHub]()
+- Anexo 2: [Mockups - Wireframe]()
+- Anexo 3: [User-Flow - WireFlow Diagram]()
+- Anexo 6: [Trello](https://trello.com/)
