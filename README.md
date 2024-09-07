@@ -240,3 +240,37 @@ La doctora Vanesa comenta que en su trabajo actual utilizan VetPraxis, principal
    ***Segmento 2: Dueños de mascotas***
 
    ![](./feat_img/18.png)
+
+### <a name="_toc175363816"></a><a name="_toc176478915"></a>**2.3.5. As-is Scenario Mapping**
+   ***Segmento 1: Médicos Veterinarios***
+
+   ![](./feat_img/19.jpeg)
+
+   ***Segmento 2: Dueños de Mascotas***
+
+   ![](./feat_img/20.jpeg)
+## <a name="_toc175363817"></a><a name="_toc176478916"></a>**2.4. Ubiquitous Language**
+Este glosario proporciona definiciones claras y precisas de términos específicos al dominio veterinario, facilitando la comunicación entre todos los miembros del equipo y los stakeholders. El objetivo es evitar malentendidos y asegurar que todos compartan una comprensión común de los conceptos clave en el proyecto.
+
+**Términos del Glosario**
+
+- **Vaccination Schedule (Calendario de Vacunación):**
+  Plan que establece las fechas y tipos de vacunas que debe recibir un animal para mantener su salud.
+- **Parasite Control (Control de Parásitos):**
+  Estrategias y tratamientos utilizados para prevenir o eliminar parásitos internos y externos en los animales.
+- **Nutritional Assessment (Evaluación Nutricional):**
+  Evaluación del estado nutricional de un paciente para ajustar su dieta según sus necesidades de salud.
+- **Behavioral Consultation (Consulta de Comportamiento):**
+  Sesión en la que el veterinario asesora sobre problemas de comportamiento en mascotas, ofreciendo estrategias para corregir conductas indeseadas.
+- **Spaying/Neutering (Esterilización/Castración):**
+  Procedimiento quirúrgico realizado para prevenir la reproducción en animales, eliminando los órganos reproductivos.
+- **Microchipping (Microchip):**
+  Técnica para insertar un microchip bajo la piel de una mascota, permitiendo su identificación en caso de pérdida.
+- **Health Certificate (Certificado de Salud):**
+  Documento oficial emitido por un veterinario que certifica la buena salud de un animal, requerido para viajes o adopciones.
+- **Euthanasia (Eutanasia):**
+  Procedimiento para poner fin de manera compasiva y sin dolor a la vida de un animal que sufre de una enfermedad terminal o grave.
+- **Dental Prophylaxis (Profilaxis Dental):**
+  Procedimiento de limpieza dental para prevenir enfermedades en los dientes y encías de los animales.
+- **Routine Check-up (Revisión de Rutina):**
+  Examen regular realizado por un veterinario para monitorear la salud general del animal y detectar problemas tempranos.
