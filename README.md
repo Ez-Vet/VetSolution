@@ -2,9 +2,11 @@
    ## <a name="_toc176478918"></a>**3.1. To-Be Scenario Mapping**
 
   ***Segmento 1: Médicos Veterinarios***
+
     ![](./assets/img/Tobe1.jpeg)
 
   ***Segmento 2: Dueños de Mascotas***
+  
   ![](./assets/img/Tobe2.jpeg)
 
 
