@@ -264,26 +264,26 @@ link: <https://acortar.link/hZI08C>
 |id\_vet|int|identificación única del veterinario (llave foránea)|
 |id\_treatment|int|identificación única del tratamiento (llave foránea)|
 
-|**payment\_receipts**|||
+|**payment_receipts**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
-|id\_payment\_receipts|int|identificación única del comprobante de pago (llave primaria)|
-|name\_payment\_receipts|string|nombre realizado al comprobante de pago.|
+|id_payment_receipts|int|identificación única del comprobante de pago (llave primaria)|
+|name_payment_receipts|string|nombre realizado al comprobante de pago.|
 |type|string|tipo del comprobante de pago, boleta o factura.|
 |details|string|detalle del comprobante de pago|
-|date\_done|int|fecha en la que se realizó el comprobante de pago|
+|date_done|int|fecha en la que se realizó el comprobante de pago|
 
-|**treatment\_product**|||
+|**treatment_product**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
-|id\_product|int|identificación única del producto (llave foránea)|
-|id\_treatment|int|identificación única del tratamiento (llave foránea)|
+|id_product|int|identificación única del producto (llave foránea)|
+|id_treatment|int|identificación única del tratamiento (llave foránea)|
 |dose|string|dosis de tratamiento registrado|
 
 |**treatments**|||
 | :- | :- | :- |
 |**atributo**|**tipo de dato**|**descripción** |
-|id\_treatments|int|identificación única del tratamiento (llave primaria)|
+|id_treatments|int|identificación única del tratamiento (llave primaria)|
 |date|int|fecha del tratamiento registrado|
 |type_treatments|string|tipo de tratamiento registrado|
 |grades|string|notas del tratamiento registrado|
