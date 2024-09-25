@@ -380,9 +380,9 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 ![Participacíon](Assets/participación.jpg)
 
 ### 5.2.2. Sprint 2
-El segundo sprint es un hito importante en nuestro proceso de desarrollo ágil. Durante este período, nos enfocamos en la implementación de las características y funcionalidades prioritarias identificadas en la planificación inicial. Esto implica traducir los requisitos y especificaciones en código funcional, desarrollando las bases de nuestro producto de manera iterativa.
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 2. Incluye como secciones internas: Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, junto con Team Collaboration Insights during Sprint
+
 #### 5.2.2.1. Sprint Planning 2
-En la siguiente sección, se presentará el sprint #1 con la versión inicial del trabajo para la entrega del proyecto, detallando la organización, distribución y resultados de la landing page.
 
 |Sprint # |Date |Time |Location |Prepared By |Attendees|
 | :- | :- | :- | :- | :- | :- |
@@ -391,7 +391,8 @@ En la siguiente sección, se presentará el sprint #1 con la versión inicial de
 |Programar e implementar el código para el frontend|<p>20</p><p></p>|20||||
 
 #### 5.2.2.2. Sprint Backlog 2
-Durante el primer sprint, el equipo se centró en desarrollar una landing page que fuera tanto atractiva como funcional, organizando y distribuyendo tareas en el tablero de Sprint de acuerdo con las habilidades de cada integrante.
+En este segundo sprint el equipo se ha enfocado en el mejoramiento de la Landing Page, el reporte y la implementación de la Front End Application. A continuación, se presenta el backlog de tareas para el Sprint 2:
+[Link para ingresar al board del segundo Sprint]((https://trello.com/b/KPjETALL/app-web-vetsolutiion))
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services.
