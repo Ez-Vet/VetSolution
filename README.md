@@ -175,11 +175,11 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     - [5.3.2. Registro de Entrevistas](https://github.com/Ez-Vet/VetSolution/blob/Chapter_5/README.md#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](https://github.com/Ez-Vet/VetSolution/blob/Chapter_5/README.md#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](https://github.com/Ez-Vet/VetSolution/blob/Chapter_5/README.md#54-video-about-the-product)
-- [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team](#video-about-the-team)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
+- [Conclusiones](https://github.com/Ez-Vet/VetSolution/blob/Chapter_5/README.md#conclusiones)
+  - [Conclusiones y recomendaciones](https://github.com/Ez-Vet/VetSolution/blob/Chapter_5/README.md#conclusiones-y-recomendaciones)
+  - [Video About-the-Team](https://github.com/Ez-Vet/VetSolution/blob/Chapter_5/README.md#video-about-the-team)
+- [Bibliografía](https://github.com/Ez-Vet/VetSolution/blob/Chapter_5/README.md#bibliografía)
+- [Anexos](https://github.com/Ez-Vet/VetSolution/blob/Chapter_5/README.md#anexos)
 
 
 # Student Outcome
