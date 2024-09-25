@@ -94,7 +94,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 
 ## Índice
 
-- [Capítulo I: Introducción](https://github.com/Ez.Vet/VetSolution/blob/Chapter_1/README.md#capítulo-i-introducción)
+- [Capítulo I: Introducción](https://github.com/Ez-Vet/VetSolution/blob/Chapter_1/README.md#capítulo-i-introducción)
   - [1.1. StartUp Profile](#11-startup-profile)
     - [1.1.1. Descripción de la StartUp](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de Integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
