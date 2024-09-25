@@ -53,7 +53,7 @@
 <p align="center">
 <br><strong>2024-02</strong></p>
 <br>
-## Historial de Versiones
+ ## Historial de Versiones
 
 <table>
 <tr>
@@ -67,7 +67,15 @@
     <td colspan="10">Bastidas Bastidas Diego Martin, Bottger Salazar Johan Karl, De Las Casas Latour Sebastián, Escobar Palomino Sebastian Matias, Ticona Panduro Estrella del Pilar</td>
     <td colspan="5">Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V, Landing page</td>
   </tr>
+   <tr>
+  <tr>
+  <td colspan="3">2era</td>
+    <td colspan="3">24/09/2024</td>
+    <td colspan="10">Bastidas Bastidas Diego Martin, Bottger Salazar Johan Karl, De Las Casas Latour Sebastián, Escobar Palomino Sebastian Matias, Ticona Panduro Estrella del Pilar</td>
+    <td colspan="5">Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V, Landing page</td>
+  </tr> 
   </table>
+  
 
   ## Project Report Collaboration Insights
 A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
