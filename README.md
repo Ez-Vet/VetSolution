@@ -370,12 +370,6 @@ Primero, se mostrarán los commits más importantes para el Reporte, los cuales 
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.5. Execution Evidence for Sprint Review
 En esta entrega, el equipo de desarrolladores de VetSolutions ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
-![Evidencia1](assets/img/Evidencia1.png)
-![Evidencia2](assets/img/Evidencia2.png)
-![Evidencia3](assets/img/Evidencia3.png)
-![Evidencia4](assets/img/Evidencia4.png)
-![Evidencia5](assets/img/Evidencia5.png)
-![Evidencia6](assets/img/Evidencia6.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
