@@ -356,6 +356,89 @@ En la siguiente sección, se presentará el sprint #1 con la versión inicial de
 #### 5.2.1.2. Sprint Backlog 
 Durante el primer sprint, el equipo se centró en desarrollar una landing page que fuera tanto atractiva como funcional, organizando y distribuyendo tareas en el tablero de Sprint de acuerdo con las habilidades de cada integrante.
 
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 1</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work - Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-do / In-Process / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK001</td>
+			<td>Remote environment creation for Report and Landing Page</td>
+			<td>Organization, repositories and branch creation in GitHub</td>
+			<td>0</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK002</td>
+			<td>Conclude Chapter01</td>
+			<td>Finish all section and add the respective information in chapter01</td>
+			<td>5</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK003</td>
+			<td>Conclude Chapter02</td>
+			<td>Finish all section and add the respective information in chapter02</td>
+			<td>3</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK004</td>
+			<td>Conclude Chapter03</td>
+			<td>Finish all section and add the respective information in chapter03</td>
+			<td>5</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK005</td>
+			<td>Conclude Chapter04</td>
+			<td>Finish all section and add the respective information in chapter04</td>
+			<td>19</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK006</td>
+			<td>Conclude Chapter05</td>
+			<td>Finish all section and add the respective information in chapter05</td>
+			<td>3</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+    <tbody>
+</table>
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services.
 
@@ -394,14 +477,118 @@ En esta sección se registra y explica el avance en términos de producto y trab
 En este segundo sprint el equipo se ha enfocado en el mejoramiento de la Landing Page, el reporte y la implementación de la Front End Application. A continuación, se presenta el backlog de tareas para el Sprint 2:
 [Link para ingresar al board del segundo Sprint]((https://trello.com/b/KPjETALL/app-web-vetsolutiion))
 
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 2</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work - Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-do / In-Process / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK008</td>
+			<td>Remote environment creation for Front End App</td>
+			<td>repositories and branch creations for Web Application in GitHub</td>
+			<td>0</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK009</td>
+			<td>Update Chapter01</td>
+			<td>add the respective information resulting from the observations made in the review in chapter01</td>
+			<td>5</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK010</td>
+			<td>Update Chapter02</td>
+			<td>add the respective information resulting from the observations made in the review in chapter02</td>
+			<td>1</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK011</td>
+			<td>Update Chapter03</td>
+			<td>add the respective information resulting from the observations made in the review in chapter03</td>
+			<td>2</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK012</td>
+			<td>Update Chapter04</td>
+			<td>add the respective information resulting from the observations made in the review in chapter04</td>
+			<td>6</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK013</td>
+			<td>Update Chapter05</td>
+			<td>add the respective information resulting from the observations made in the review in chapter02</td>
+			<td>4</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+    <tbody>
+</table>
+
 #### 5.2.2.3. Development Evidence for Sprint Review
 En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services.
 
-Primero, se mostrarán los commits más importantes para el Reporte, los cuales muestran el ciclo de vida del proyecto, y toda la información que se usó, usa y usará para el desarrollo del proyecto:
-| Repository          | Branch  | Commit ID                                | Commit Message                           | Commit Message Body                                                                                                                                 | Commited on (Date) |
-|---------------------|---------|------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| VetSolution/Report | develop | 98783487238973c5dd4a8097197adb2cf70af00a | feat: added content in chapter IV        | added content in all sections of chapter04                                                                                                          | 4/9/2024           |
-| VetSolution/Report | master  | 889cdc0229a96aa9fca4641ebfccccd71f0d7a5a | feat(assets)                             | added img to master branch                                                                                                                          | 4/9/2024           |
+| Repository          | Branch  | Commit ID                                | Commit Message                                                                         | Commit Message Body        | Commited on (Date) |
+|---------------------|---------|------------------------------------------|----------------------------------------------------------------------------------------|----------------------------|--------------------|
+| JDu202012207/Report | develop | 771e52970c40273864623683573ae900bda62fd8 | Merge branch 'feat-chapter01' of https://github.com/Ez-Vet/Frontend                    | -                          | 9/20/2024          |
+| JDu202012207/Report | develop | 219b131d79d8a800f0c5175b9c05b69ff87646cc | Merge: merging chapter02 features.                                                     | -                          | 9/20/2024          |
+| JDu202012207/Report | develop | 271962ab497af6c8fd38596dc9dd6a576c6d6501 | Merge branch 'feat-chapter03' of https://github.com/Ez-Vet/Frontend                    | -                          | 9/20/2024          |
+| JDu202012207/Report | develop | 7bca55d1ecdb7cb94597e8680a455c5b12b7138d | Merge: merging chapter04 features.                                                     | -                          | 9/20/2024          |
+| JDu202012207/Report | develop | 5c076afbe3f51057e7ef3a7631c50fe109ed895c | Merge branch 'feat-chapter05' of https://github.com/Ez-Vet/Frontend                    | -                          | 9/20/2024          |
+
+Ahora, se mostrarán los commits más importantes para el arreglo según las observaciones hechas a la Landing Page:
+
+| Repository                   | Branch | Commit ID                                | Commit Message | Commit Message Body                    | Commited on (Date) |
+|------------------------------|--------|------------------------------------------|----------------|----------------------------------------|--------------------|
+| s4ck1to99/LandingPageFlexPal | master | 51d1e22858cd8356c12bc86d530eda3935e6b3e5 | refactor       | Language spanish to english index.html | 21/9/2024          |
+
+Por último, se mostrarán los commits más importantes para la implementación de la Front End Application:
+
+| Repository               | Branch  | Commit ID                                | Commit Message                                                                                              | Commit Message Body | Commited on (Date) |
+|--------------------------|---------|------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
+| JDu202012207/FrontEndApp | develop | b42abd3bba01d16451479486cdf2f645a04ee0b8 | Merge branch 'develop-feat' of https://github.com/Ez-Vet/Frontend into develop-features                     | -                   | 9/20/2024          |
+| JDu202012207/FrontEndApp | develop | b60a6a683a57fd1846c92a34dc178398222c197d | feat(community): merging develop-features.                                                                  | -                   | 9/20/2024          |
+| JDu202012207/FrontEndApp | develop | a462141f1691d2088990c2f1368e90fe2aeb6d92 | feat(login): merging develop-features.                                                                      | -                   | 9/20/2024          |
+| JDu202012207/FrontEndApp | develop | d7e07b9e25701116aadadf8aa1d5899d27fb60e2 | feat(pets): merging develop-features.                                                                       | -                   | 9/20/2024          |
+| JDu202012207/FrontEndApp | develop | ebd6d62b629882a357f5b253c07b6d34439ee16a | feat(appointments): merging develop-features.                                                               | -                   | 9/20/2024          |
+| JDu202012207/FrontEndApp | develop | 7ef52c3ca1034b0d81cc3bf170dc0b325b314408 | fix: fixed merging develop-features.                                                                        | -                   | 9/20/2024          |
+| JDu202012207/FrontEndApp | develop | e78c9c50638df5b9078dc3b50d0762c06bea697d | Merge branch 'develop-feat-session' of https://github.com/Ez-Vet/Frontend into develop-features             | -                   | 9/20/2024          |
+| JDu202012207/FrontEndApp | develop | 4d6b89ce8efb40d60e614c3b133f65f06eb5859c | fix: fixed merging develop-features.                                                                        | -                   | 9/20/2024          |
 
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
@@ -410,6 +597,11 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
 También se ha completado la implementación de la Front End Application, que presenta una interfaz de usuario interactiva y funcionalidades básicas para los usuarios. A continuación, se presentan algunas capturas de pantalla de la aplicación en funcionamiento:
+![Home](Assets/HomeScreenshot.jpg)
+![Login](Assets/LoginScreenshot.jpg)
+![Pet1](Assets/PetScreenshot1.jpg)
+![Pet2](Assets/PetScreenshot2.jpg)
+![Appointemnt](Assets/AppointmentScreenshot.jpg)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 En este sprint, hemos podido desplegar una Web Application que consume json como data para mostrárselos al usuario, a continuación se muestra el código de la aplicación:
