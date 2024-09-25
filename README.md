@@ -422,13 +422,14 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 A continuación, fotos de como lucen los endpoints dentro de nuestro código y el lugar donde se está consumiendo la data en nuestra web application:
 
 ## Home
-
+![Home](Assets/HomeScreenshot.jpg)
 ## Login
-
+![Login](Assets/LoginScreenshot.jpg)
 ## Pet
-
-## Apointment
-
+![Pet1](Assets/PetScreenshot1.jpg)
+![Pet2](Assets/PetScreenshot2.jpg)
+## Appointment
+![Appointemnt](Assets/AppointmentScreenshot.jpg)
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
