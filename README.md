@@ -381,14 +381,14 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 
 ### 5.2.2. Sprint 2
 El segundo sprint es un hito importante en nuestro proceso de desarrollo ágil. Durante este período, nos enfocamos en la implementación de las características y funcionalidades prioritarias identificadas en la planificación inicial. Esto implica traducir los requisitos y especificaciones en código funcional, desarrollando las bases de nuestro producto de manera iterativa.
-#### 5.2.1.1. Sprint Planning 
+#### 5.2.2.1. Sprint Planning 2
 En la siguiente sección, se presentará el sprint #1 con la versión inicial del trabajo para la entrega del proyecto, detallando la organización, distribución y resultados de la landing page.
 
 |Sprint # |Date |Time |Location |Prepared By |Attendees|
 | :- | :- | :- | :- | :- | :- |
-|1|1/09/2024 |9:00 pm|Reunión mediante Meet|Sebastian Matias Escobar Palomino|Diego Bastidas, Estrella Ticona , Sebastian De Las Casas, Johan Bottger|
+|2|20/09/2024 |8:30 pm|Reunión mediante Meet|Sebastian Matias Escobar Palomino|Diego Bastidas, Estrella Ticona , Sebastian De Las Casas, Johan Bottger|
 |Sprint 2 Goal |Sprint 2 Velocity |Sum of Story Points||||
-|Programar e implementar el código para el frontend|<p>12</p><p></p>|12||||
+|Programar e implementar el código para el frontend|<p>20</p><p></p>|20||||
 
 #### 5.2.2.2. Sprint Backlog 2
 Durante el primer sprint, el equipo se centró en desarrollar una landing page que fuera tanto atractiva como funcional, organizando y distribuyendo tareas en el tablero de Sprint de acuerdo con las habilidades de cada integrante.
