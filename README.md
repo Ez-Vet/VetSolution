@@ -616,8 +616,10 @@ A continuación, fotos de como lucen los endpoints dentro de nuestro código y e
 ## Home
 ![Home](Assets/HomeScreenshot.jpg)
 ## Login
+![Login codigo](Assets/CodigoLogin.jpg)
 ![Login](Assets/LoginScreenshot.jpg)
 ## Pet
+![Pet codigo](Assets/CodigoPet.jpg)
 ![Pet1](Assets/PetScreenshot1.jpg)
 ![Pet2](Assets/PetScreenshot2.jpg)
 ## Appointment
