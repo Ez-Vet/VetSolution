@@ -267,126 +267,128 @@ link: <https://acortar.link/hZI08C>
 ![](./assets/imagen/Strategy%20and%20planning.png)
 
 ### 4.7.2. Class Dictionary
-|**vet**|||
+### vet
+| **attribute**  | **data type**  | **description**  |
 | :- | :- | :- |
-|**atributo**|**tipo de dato**|**descripción** |
-|id_vet|string|identificación única del veterinario (llave primaria)|
-|id_clinic|string|identificación única de la clínica (llave foránea)|
-|name|string|Nombre del veterinario |
-|specialty|string|Especialidad del veterinario|
-|num_license|int|Número de licencia del veterinario|
-|work_schedule|string|Horario de trabajo registrado del veterinario|
-|**quotes**|||
-| :- | :- | :- |
-|**atributo**|**tipo de dato**|**descripción** |
-|id_quotes|int|identificación única de la cita (llave primaria)|
-|id_patient|int |identificación única del paciente (llave foránea)|
-|id_vet|int |Identidad única del veterinario (llave foránea)|
-|id_pay|int|identificación única del pago (llave foránea)|
-|date|int|Fecha de cita registrada|
-|hour |int|Hora de la cita registrada|
-|duration|int|Duración de la cita registrada|
-|reason|string|<p>Motivo de la cita</p><p>registrada</p>|
-|state|string|Estado|
+| id_vet  | string  | unique identification of the veterinarian (primary key) |
+| id_clinic  | string  | unique identification of the clinic (foreign key) |
+| name  | string  | veterinarian's name  |
+| specialty  | string  | veterinarian's specialty  |
+| num_license  | int  | veterinarian's license number  |
+| work_schedule  | string  | registered work schedule of the veterinarian |
 
-|**diagnoses**|||
+### quotes
+| **attribute**  | **data type**  | **description**  |
 | :- | :- | :- |
-|**atributo**|**tipo de dato**|**descripción** |
-|id_diagnoses|int|identificación única de un diagnóstico (llave primaria)|
-|name_diagnoses|string|nombre de un diagnóstico.|
-|details_diagnoses|string|detalle textual de un diagnóstico |
+| id_quotes  | int  | unique identification of the appointment (primary key) |
+| id_patient  | int  | unique identification of the patient (foreign key) |
+| id_vet  | int  | unique identification of the veterinarian (foreign key) |
+| id_pay  | int  | unique identification of the payment (foreign key) |
+| date  | int  | recorded appointment date  |
+| hour  | int  | recorded appointment hour  |
+| duration  | int  | recorded appointment duration  |
+| reason  | string  | recorded reason for the appointment  |
+| state  | string  | appointment status |
 
-|**propetaries**|||
+### diagnoses
+| **attribute**  | **data type**  | **description**  |
 | :- | :- | :- |
-|**atributo**|**tipo de dato**|**descripción** |
-|id_propetaries|int|identificación única del propietario (llave primaria)|
-|lastname|string|Apellidos del usuario|
-|email|string|Correo electronico  del usuario|
-|password|int|Contraseña del usuario|
-|phone|int |Número de celular del usuario|
+| id_diagnoses  | int  | unique identification of a diagnosis (primary key) |
+| name_diagnoses  | string  | name of the diagnosis |
+| details_diagnoses  | string  | textual details of the diagnosis |
 
-|**pay**|||
+### propetaries
+| **attribute**  | **data type**  | **description**  |
 | :- | :- | :- |
-|**atributo**|**tipo de dato**|**descripción** |
-|id_pay|int|identificación única de pago (llave primaria)|
-|id_payment_proof|int|identificación única del comprobante de pago(llave foránea) |
-|date|int|Fecha del pago registrado|
-|amount|int|Monto del pago registrado|
-|payment_method|string|método de pago registrado|
-|transaction_status|string|estado de la transacción realizada|
+| id_propetaries  | int  | unique identification of the owner (primary key) |
+| lastname  | string  | owner's last name |
+| email  | string  | owner's email address |
+| password  | int  | owner's password |
+| phone  | int  | owner's phone number |
 
-|**products**|||
+### pay
+| **attribute**  | **data type**  | **description**  |
 | :- | :- | :- |
-|**atributo**|**tipo de dato**|**descripción** |
-|id_products|int|identificación única del producto (llave primaria)|
-|name|string|nombre del producto|
-|<p></p><p>description</p>|string|descripción del producto |
-|stock|int|si esta disponible el producto  |
-|price|int|precio del producto |
+| id_pay  | int  | unique identification of the payment (primary key) |
+| id_payment_proof  | int  | unique identification of the payment proof (foreign key) |
+| date  | int  | recorded payment date |
+| amount  | int  | registered payment amount |
+| payment_method  | string  | registered payment method |
+| transaction_status  | string  | status of the transaction |
 
-|**treatment_assignments**|||
+### products
+| **attribute**  | **data type**  | **description**  |
 | :- | :- | :- |
-|**atributo**|**tipo de dato**|**descripción** |
-|id_vet|int|identificación única del veterinario (llave foránea)|
-|id_treatment|int|identificación única del tratamiento (llave foránea)|
+| id_products  | int  | unique identification of the product (primary key) |
+| name  | string  | product name |
+| description  | string  | product description |
+| stock  | int  | product availability |
+| price  | int  | product price |
 
-|**payment_receipts**|||
+### treatment_assignments
+| **attribute**  | **data type**  | **description**  |
 | :- | :- | :- |
-|**atributo**|**tipo de dato**|**descripción** |
-|id_payment_receipts|int|identificación única del comprobante de pago (llave primaria)|
-|name_payment_receipts|string|nombre realizado al comprobante de pago.|
-|type|string|tipo del comprobante de pago, boleta o factura.|
-|details|string|detalle del comprobante de pago|
-|date_done|int|fecha en la que se realizó el comprobante de pago|
+| id_vet  | int  | unique identification of the veterinarian (foreign key) |
+| id_treatment  | int  | unique identification of the treatment (foreign key) |
 
-|**treatment_product**|||
+### payment_receipts
+| **attribute**  | **data type**  | **description**  |
 | :- | :- | :- |
-|**atributo**|**tipo de dato**|**descripción** |
-|id_product|int|identificación única del producto (llave foránea)|
-|id_treatment|int|identificación única del tratamiento (llave foránea)|
-|dose|string|dosis de tratamiento registrado|
+| id_payment_receipts  | int  | unique identification of the payment receipt (primary key) |
+| name_payment_receipts  | string  | name associated with the payment receipt |
+| type  | string  | type of payment receipt, such as invoice or receipt |
+| details  | string  | details of the payment receipt |
+| date_done  | int  | date the payment receipt was issued |
 
-|**treatments**|||
+### treatment_product
+| **attribute**  | **data type**  | **description**  |
 | :- | :- | :- |
-|**atributo**|**tipo de dato**|**descripción** |
-|id_treatments|int|identificación única del tratamiento (llave primaria)|
-|date|int|fecha del tratamiento registrado|
-|type_treatments|string|tipo de tratamiento registrado|
-|grades|string|notas del tratamiento registrado|
-|cost|int|costo del tratamiento registrado|
+| id_product  | int  | unique identification of the product (foreign key) |
+| id_treatment  | int  | unique identification of the treatment (foreign key) |
+| dose  | string  | recorded treatment dosage |
 
-|**patients**|||
+### treatments
+| **attribute**  | **data type**  | **description**  |
 | :- | :- | :- |
-|**atributo**|**tipo de dato**|**descripción** |
-|id_paciente|int|identificación única del paciente (llave primaria)|
-|id_owner|int |identificación única del usuario (llave foránea)|
-|pet_name|string|nombre de la mascota registrada|
-|date_ofbirth |int|fecha de nacimiento de la mascota registrado|
-|age|int|La edad de la mascota se expresa en años, meses y días.|
-|sex|string|sexo de la mascota registrada|
-|weight|int |peso de la mascota registrada|
+| id_treatments  | int  | unique identification of the treatment (primary key) |
+| date  | int  | recorded treatment date |
+| type_treatments  | string  | type of recorded treatment |
+| grades  | string  | treatment notes |
+| cost  | int  | treatment cost |
 
-|**dog_breeds**|||
+### patients
+| **attribute**  | **data type**  | **description**  |
 | :- | :- | :- |
-|**atributo**|**tipo de dato**|**descripción** |
-|id_breeds|int|identificación única de la raza (llave primaria)|
-|id_species|int |identificación única de la especie (llave foránea)|
-|name_breeds|string|nombre asociado a una raza|
-|description_breeds|string|descripción textual de las características de una raza|
+| id_paciente  | int  | unique identification of the patient (primary key) |
+| id_owner  | int  | unique identification of the owner (foreign key) |
+| pet_name  | string  | registered pet name |
+| date_ofbirth  | int  | registered pet birth date |
+| age  | int  | pet's age, expressed in years, months, and days |
+| sex  | string  | registered pet sex |
+| weight  | int  | registered pet weight |
 
-|**crosses**|||
+### dog_breeds
+| **attribute**  | **data type**  | **description**  |
 | :- | :- | :- |
-|**atributo**|**tipo de dato**|**descripción** |
-|id_race|int|identificación única de la raza (llave foránea)|
-|id_patient|int |identificación única de un paciente (llave foránea)|
-|description_crosses|string|descripción textual de las características del cruce|
+| id_breeds  | int  | unique identification of the breed (primary key) |
+| id_species  | int  | unique identification of the species (foreign key) |
+| name_breeds  | string  | name associated with the breed |
+| description_breeds  | string  | textual description of the breed's characteristics |
 
-|**species**|||
+### crosses
+| **attribute**  | **data type**  | **description**  |
 | :- | :- | :- |
-|**atributo**|**tipo de dato**|**descripción** |
-|id_species|int |identificación única de la especie (llave primaria)|
-|name_species|string|nombre asociado a una especie|
-|species_description|string|descripción textual de las características de una especie.|
+| id_race  | int  | unique identification of the breed (foreign key) |
+| id_patient  | int  | unique identification of a patient (foreign key) |
+| description_crosses  | string  | textual description of the characteristics of the crossbreed |
+
+### species
+| **attribute**  | **data type**  | **description**  |
+| :- | :- | :- |
+| id_species  | int  | unique identification of the species (primary key) |
+| name_species  | string  | name associated with the species |
+| species_description  | string  | textual description of the species' characteristics |
+
 
 ## 4.8. Database Design
 Para el esquema de base de datos se utilizó LucidChart: 
