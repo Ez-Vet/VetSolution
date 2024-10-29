@@ -640,7 +640,7 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 - El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
 
 ## Video About-the-Team.
-No se entrega 
+No se entrega wefwet w f
 # Bibliografía
 - Bigby, G. (2023) Organizing Your Website with Information Architecture Methods.  Dyno Mapper: https://dynomapper.com/blog/19-ux/268-information-architecture-methods
 - Microsoft (2024) Microsoft Writing Style Guide. Microsoft Learn: https://learn.microsoft.com/en-us/style-guide/welcome/ 
