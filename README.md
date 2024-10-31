@@ -800,6 +800,8 @@ La heurística de "Reconocimiento antes que recuerdo" se ve afectada por la falt
 
 **Descripción del problema:**  
 La ausencia del logotipo en la interfaz principal de la aplicación crea una experiencia visual que carece de un identificador claro de marca. Esto puede resultar confuso para los usuarios, especialmente en el caso de nuevas instalaciones o visitas esporádicas, ya que no cuentan con un elemento visual que asocie la aplicación a una identidad particular.
+<br><br><br> 
+![](./Assets/Falta1.png)
 
 **Recomendación:**  
 Se recomienda incluir el logotipo de la aplicación en un lugar visible y destacado en la interfaz principal. Esto no solo fortalecerá el reconocimiento de marca, sino que también facilitará la identificación de la aplicación, mejorando la familiaridad del usuario con la interfaz.
@@ -814,6 +816,9 @@ La heurística de "Consistencia y estándares" se ve afectada por el uso de tipo
 **Descripción del problema:**  
 Los botones de la aplicación presentan una tipografía que no está alineada con el resto de los elementos visuales, generando una apariencia poco uniforme. Esto puede llevar a confusión y reducir la efectividad de la comunicación visual, afectando la claridad y consistencia en la navegación.
 
+<br><br><br> 
+![](./Assets/Falta2.png)
+
 **Recomendación:**  
 Es recomendable actualizar la tipografía de los botones para que coincida con la del diseño general de la aplicación. Esto garantizará una experiencia visual coherente y mejorará la percepción de calidad en la interfaz.
 
@@ -826,6 +831,9 @@ La heurística de "Flexibilidad y eficiencia de uso" se ve afectada al no contar
 
 **Descripción del problema:**  
 La ausencia de un apartado dedicado para el servicio de baños o grooming en la aplicación limita la capacidad de los usuarios para organizar y registrar adecuadamente este tipo de servicios. Esto representa un obstáculo para aquellos usuarios que necesitan gestionar este servicio de manera específica, dificultando el flujo de trabajo y aumentando el tiempo requerido para completar estas tareas.
+
+<br><br><br> 
+![](./Assets/Falta3.png)
 
 **Recomendación:**  
 Para resolver el problema, se sugiere implementar un apartado específico para el área de baños o grooming. Esto permitirá una mejor organización de los servicios ofrecidos, optimizando la eficiencia y mejorando la experiencia general del usuario al gestionar diversos servicios en un solo lugar.
