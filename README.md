@@ -655,15 +655,15 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 
    **Entrevistado N°1: Valentino Tirado**
 
-- **Sexo: ** 
-- **Edad: **
-- **Domicilio: ** 
+- **Sexo: Masculino** 
+- **Edad: 28 años**
+- **Domicilio: Los Olivos** 
 
-**Entrevista:** 
+**Entrevista: Noelia Aliaga** 
 
-- **Link: <LINK>** 
-- **Momento en el que Inicia: **
-- **Duración: **
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWYEK2jlkx1JjvBRRNSfAasBBzbZKRAyTDySBMdNdyxrLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Zd84FB** 
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 7:12 min**
 
 **Resumen:**
 
@@ -672,32 +672,32 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 
 **Entrevistado N°2: Viviana Armas**
 
-- **Sexo: ** 
-- **Edad: **
-- **Domicilio: ** 
+- **Sexo: Femenino** 
+- **Edad: 24 años**
+- **Domicilio: San Miguel** 
 
 **Entrevista:** 
 
-- **Link: <>** 
-- **Momento en el que Inicia: **
-- **Duración: **
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EaNf1ImRbpRPvRwBoOyhmckBRyZQcbDy-LZX2T5FFQDqtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vBn1iu** 
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 5:00 min**
 
 **Resumen:**
 
 
 ![](./assets/img/8.png)
 
-**Entrevistado N°3: ** 
+**Entrevistado N°3: Noelia Aliaga** 
 
-- **Sexo: **
-- **Edad: **
-- **Domicilio: ** 
+- **Sexo: Femenino**
+- **Edad: 50 años**
+- **Domicilio: Magdalena** 
 
 **Entrevista:** 
 
-- **Link: <>** 
-- **Momento en el que Inicia:**
-- **Duración: **
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/Ef1y_P5oiLhMp_GNakPpocgBuJNRKXMn9W7H0vSvdNwnSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LBaRO3** 
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 2:59 min**
 
 **Resumen:**
 
@@ -714,26 +714,26 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 
 **Entrevista:** 
 
-- **Link: <>** 
-- **Momento en el que Inicia: **
-- **Duración: **
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EfhZu4HwZiVOgiL2HqVkmpcBOXmWa-xzOxdchczVLxoOKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dPUYNk** 
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 5:27 min**
 
 **Resumen:**
 
 
 ![](./assets/img/10.png)
 
-**Entrevistado N°2: **
+**Entrevistado N°2: Jose Roberto**
 
-- **Sexo: ** 
-- **Edad: **
-- **Domicilio: **
+- **Sexo: Masculino** 
+- **Edad: 21 años**
+- **Domicilio: San Luis**
 
 **Entrevista:** 
 
-- **Link: <LINK>** 
-- **Momento en el que Inicia: **
-- **Duración: **	
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EQ2_ye-rGslBixwe4WrNDH0BSb9_uIn0Qlkjd-2vJkqfew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=elReSl** 
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 4:45 min**	
 
 **Resumen:**
 
@@ -749,9 +749,9 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 
 **Entrevista:** 
 
-- **Link: **
-- **Momento en el que Inicia: **
-- **Duración: **
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EdcvgpvWm79NgSbsOzO4RhQBETQCJ4Ttpav52Qidt1YwUA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZWeZVz**
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 5:00 min**
 
 **Resumen:**
 
