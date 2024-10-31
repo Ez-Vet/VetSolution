@@ -632,7 +632,133 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 ![Participacíon](Assets/Participacion2.jpg)
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
+  ***Segmento 1: Médicos Veterinarios***
+
+1. ¿Conoces alguna aplicación de gestión veterinaria? ¿Cuál es?
+1. ¿Lo escogieron por alguna razón es especial?
+1. ¿Fue la primera aplicación que usaron?
+1. ¿Qué es lo que te gusta de esa aplicación?
+1. ¿Qué te disgusta de esa aplicación?
+1. ¿Qué sería una de las cosas que si o si cambiarias?
+
+***Segmento 2: Dueños de Mascotas***
+
+1. ¿Con que frecuencia vas al veterinario?
+1. ¿Qué método usas para llevar el control de tu mascota?
+1. ¿Alguna vez perdiste los documentos?
+1. ¿En medio de algún tratamiento cambiaste de veterinario?
+1. ¿Qué opinas de tener la historia clínica en una aplicación?
+1. ¿Usarías una aplicación como la descrita?
 ### 5.3.2. Registro de Entrevistas
+
+   ***Segmento 1: Médicos Veterinarios***
+
+   **Entrevistado N°1: Valentino Tirado**
+
+- **Sexo: ** 
+- **Edad: **
+- **Domicilio: ** 
+
+**Entrevista:** 
+
+- **Link: <LINK>** 
+- **Momento en el que Inicia: **
+- **Duración: **
+
+**Resumen:**
+
+
+![](./assets/img/7.png)
+
+**Entrevistado N°2: Viviana Armas**
+
+- **Sexo: ** 
+- **Edad: **
+- **Domicilio: ** 
+
+**Entrevista:** 
+
+- **Link: <>** 
+- **Momento en el que Inicia: **
+- **Duración: **
+
+**Resumen:**
+
+
+![](./assets/img/8.png)
+
+**Entrevistado N°3: ** 
+
+- **Sexo: **
+- **Edad: **
+- **Domicilio: ** 
+
+**Entrevista:** 
+
+- **Link: <>** 
+- **Momento en el que Inicia:**
+- **Duración: **
+
+**Resumen:**
+
+
+![](./assets/img/9.png)
+
+***Segmento 2: Dueños de Mascotas***
+
+**Entrevistado N°1: Sebastián Silva**
+
+- **Sexo: Masculino**
+- **Edad: 20**
+- **Domicilio: San Luis** 
+
+**Entrevista:** 
+
+- **Link: <>** 
+- **Momento en el que Inicia: **
+- **Duración: **
+
+**Resumen:**
+
+
+![](./assets/img/10.png)
+
+**Entrevistado N°2: **
+
+- **Sexo: ** 
+- **Edad: **
+- **Domicilio: **
+
+**Entrevista:** 
+
+- **Link: <LINK>** 
+- **Momento en el que Inicia: **
+- **Duración: **	
+
+**Resumen:**
+
+
+
+![](./assets/img/11.png)
+
+**Entrevistado N°3: Camila Sanchez**
+
+- **Sexo: Femenino**
+- **Edad:19**
+- **Domicilio: Surco** 
+
+**Entrevista:** 
+
+- **Link: **
+- **Momento en el que Inicia: **
+- **Duración: **
+
+**Resumen:**
+
+`	`Camila 
+
+![](./assets/img/21.png)
+
 ### 5.3.3. Evaluaciones según heurísticas
 ## 5.4. Video About-the-Product
 
