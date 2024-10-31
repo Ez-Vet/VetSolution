@@ -633,6 +633,20 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 ## 5.2.3 Sprint 3
 ### 5.2.3.1. Sprint Planning 3
 El Sprint #3 comienza el 10 de octubre de 2024, y su objetivo es solucionar errores en la aplicación web y desarrollar el back end de la misma.
+
+|Sprint #|Sprint 3|
+| :- | :-: |
+|Location|Zoom|
+|Prepared by|Sebastian Escobar Palomino|
+|Atendees(to planning meeting)|Diego Bastidas, Estrella Ticona, Johan Bottger , Sebastian De Las Casas|
+|<p>Sprint 3</p><p>Review</p><p>Summary</p>|En el sprint anterior logramos completar la entrega de todos los user stories. La opinión del product owner sobre el progreso alcanzado hasta el último entregable fue positiva.|
+|<p>Sprint 3</p><p>Review</p><p>Summary</p>|En el sprint anterior se lograron optimizar ciertos aspectos de eficiencia en algunos componentes. Del mismo modo, es posible mejorar el proyecto mediante la reestructuración de algunos de estos componentes.|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|Desarrollar las interfaces de perfil, comunidades , pacientes y el también parte del backend . Esto ayudara a mejorar la eficiencia de nuestra pagina web|
+|Sprint 3 Goal|20|
+|<p>Sum of story</p><p>points</p>|20|
+
+
 ### 5.2.3.2. Sprint Backlog 3 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
