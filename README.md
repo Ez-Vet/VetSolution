@@ -75,6 +75,12 @@
     <td colspan="10">Bastidas Bastidas Diego Martin, Bottger Salazar Johan Karl, De Las Casas Latour Sebastián, Escobar Palomino Sebastian Matias, Ticona Panduro Estrella del Pilar</td>
     <td colspan="5">Frond End</td>
   </tr> 
+  <tr>
+  <td colspan="3">3era</td>
+    <td colspan="3">31/10/2024</td>
+    <td colspan="10">Bastidas Bastidas Diego Martin, Bottger Salazar Johan Karl, De Las Casas Latour Sebastián, Escobar Palomino Sebastian Matias, Ticona Panduro Estrella del Pilar</td>
+    <td colspan="5">Frond End - Back End</td>
+  </tr> 
   </table>
   
 
