@@ -634,21 +634,17 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 ### 5.3.1. Diseño de Entrevistas
   ***Segmento 1: Médicos Veterinarios***
 
-1. ¿Conoces alguna aplicación de gestión veterinaria? ¿Cuál es?
-1. ¿Lo escogieron por alguna razón es especial?
-1. ¿Fue la primera aplicación que usaron?
-1. ¿Qué es lo que te gusta de esa aplicación?
-1. ¿Qué te disgusta de esa aplicación?
-1. ¿Qué sería una de las cosas que si o si cambiarias?
+1. ¿Que Aplicativo usas?
+1. ¿Que te parecio la interacción con Ez.vet?
+1. ¿Que es lo que modificarias o añadirias?
+
 
 ***Segmento 2: Dueños de Mascotas***
 
-1. ¿Con que frecuencia vas al veterinario?
-1. ¿Qué método usas para llevar el control de tu mascota?
-1. ¿Alguna vez perdiste los documentos?
-1. ¿En medio de algún tratamiento cambiaste de veterinario?
-1. ¿Qué opinas de tener la historia clínica en una aplicación?
-1. ¿Usarías una aplicación como la descrita?
+1. ¿Que te parecio la interacción con Ez.vet?
+1. ¿Que es lo que modificarias o añadirias?
+1. ¿Que tan sencillo te parecio el uso de Ez.vet?
+
 ### 5.3.2. Registro de Entrevistas
 
    ***Segmento 1: Médicos Veterinarios***
@@ -667,6 +663,8 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 
 **Resumen:**
 
+`	`El doctor Valentino expresó que encuentra sumamente interesante el uso de la herramienta Ez.vet, pues le permitiría optimizar el tiempo que dedica a cada consulta y, de manera especial, agilizar la atención en situaciones de emergencia. Señaló que, al reducir el tiempo de espera y aumentar la eficiencia en el proceso, podría ofrecer un servicio más rápido y efectivo a sus clientes, mejorando notablemente la experiencia de estos y facilitando su propio trabajo. Además, destacó que la herramienta sería particularmente útil en aquellos casos en los que el tiempo es un factor crítico, permitiéndole concentrarse en lo más importante: brindar atención oportuna y de calidad
+
 
 ![](./assets/img/7.png)
 
@@ -684,6 +682,7 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 
 **Resumen:**
 
+` ` La doctora Viviana recomendó realizar algunos cambios en los colores de ciertas áreas del aplicativo para mejorar su usabilidad. Aun así, en general, le pareció una herramienta muy útil, ya que le permitiría ahorrar tiempo y agilizar los procedimientos clínicos. Además, señaló que, en comparación con Vet Praxis, encuentra Ez.vet mucho más intuitivo y fácil de usar, lo cual considera una ventaja significativa para optimizar su práctica diaria.
 
 ![](./assets/img/8.png)
 
@@ -700,6 +699,8 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 - **Duración: 2:59 min**
 
 **Resumen:**
+
+` `La doctora Noelia comentó que el aplicativo le resulta muy útil, ya que le permitiría ahorrar entre 10 a 15 minutos en cada consulta, dado que actualmente el área de administración le exige registrar primero la historia clínica antes de iniciar la atención. Además, sugirió añadir una sección específica para el área de baños o servicio de grooming, ya que en su veterinaria también ofrecen este servicio, y una opción de este tipo facilitaría la gestión integral de todos los procedimientos que realizan. 
 
 
 ![](./assets/img/9.png)
