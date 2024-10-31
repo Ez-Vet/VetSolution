@@ -632,6 +632,7 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 ![Participacíon](Assets/Participacion2.jpg)
 ## 5.2.3 Sprint 3
 ### 5.2.3.1. Sprint Planning 3
+El Sprint #3 comienza el 10 de octubre de 2024, y su objetivo es solucionar errores en la aplicación web y desarrollar el back end de la misma.
 ### 5.2.3.2. Sprint Backlog 3 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
