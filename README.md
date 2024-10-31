@@ -100,6 +100,11 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 - Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas, lo que permitió un mayor avance y equidad en el desarrollo del informe.
 <br>
 
+**Entrega N°3: TB2**
+<br>
+-Todos los miembros del equipo contribuyeron pero no con equitividad, Se dividio en el Back, corrección del Frontend, corrección de la landing page y el documento.
+<br>
+
 ## Índice
 
 - [Capítulo I: Introducción](https://github.com/Ez-Vet/VetSolution/blob/Chapter_1/README.md#capítulo-i-introducción)
