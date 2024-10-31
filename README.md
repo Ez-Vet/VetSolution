@@ -778,12 +778,55 @@ por Jakob Nielsen.
 1. Desktop landing page
 
 2. Web Application
-  -  Inicio de sesión con usuario existente
-  - Iconografía comprensible y consistente con el mundo real
-  - Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
-  - Visualización de perfil de usuario
+  - Ausencia del logotipo en la interfaz de la aplicación
+  - Botones sin tipografía adecuada
+  - Falta de un área específica para baños o servicio de grooming
 
 **ESCALA DE SEVERIDAD**
+| Nivel |Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**Problema #01: Ausencia del logotipo en la interfaz de la aplicación**  
+**Escala de severidad:** 02  
+**Principio violado:** Usability - Reconocimiento antes que recuerdo  
+La heurística de "Reconocimiento antes que recuerdo" se ve afectada por la falta del logotipo, ya que este es un elemento visual que ayuda a los usuarios a identificar rápidamente la aplicación y su marca. Sin un logotipo, los usuarios pueden tener dificultades para reconocer la interfaz como parte de la identidad de la aplicación.
+
+**Descripción del problema:**  
+La ausencia del logotipo en la interfaz principal de la aplicación crea una experiencia visual que carece de un identificador claro de marca. Esto puede resultar confuso para los usuarios, especialmente en el caso de nuevas instalaciones o visitas esporádicas, ya que no cuentan con un elemento visual que asocie la aplicación a una identidad particular.
+
+**Recomendación:**  
+Se recomienda incluir el logotipo de la aplicación en un lugar visible y destacado en la interfaz principal. Esto no solo fortalecerá el reconocimiento de marca, sino que también facilitará la identificación de la aplicación, mejorando la familiaridad del usuario con la interfaz.
+
+---
+
+**Problema #02: Botones sin tipografía adecuada**  
+**Escala de severidad:** 02  
+**Principio violado:** Usability - Consistencia y estándares  
+La heurística de "Consistencia y estándares" se ve afectada por el uso de tipografías que no son coherentes con el diseño general, lo que dificulta la experiencia de uso y reduce la claridad de los botones en la interfaz.
+
+**Descripción del problema:**  
+Los botones de la aplicación presentan una tipografía que no está alineada con el resto de los elementos visuales, generando una apariencia poco uniforme. Esto puede llevar a confusión y reducir la efectividad de la comunicación visual, afectando la claridad y consistencia en la navegación.
+
+**Recomendación:**  
+Es recomendable actualizar la tipografía de los botones para que coincida con la del diseño general de la aplicación. Esto garantizará una experiencia visual coherente y mejorará la percepción de calidad en la interfaz.
+
+---
+
+**Problema #03: Falta de un área específica para baños o servicio de grooming**  
+**Escala de severidad:** 03  
+**Principio violado:** Usability - Flexibilidad y eficiencia de uso  
+La heurística de "Flexibilidad y eficiencia de uso" se ve afectada al no contar con un área específica para baños o servicio de grooming, ya que esto impide que los usuarios puedan gestionar de manera eficiente todos los servicios disponibles en la aplicación.
+
+**Descripción del problema:**  
+La ausencia de un apartado dedicado para el servicio de baños o grooming en la aplicación limita la capacidad de los usuarios para organizar y registrar adecuadamente este tipo de servicios. Esto representa un obstáculo para aquellos usuarios que necesitan gestionar este servicio de manera específica, dificultando el flujo de trabajo y aumentando el tiempo requerido para completar estas tareas.
+
+**Recomendación:**  
+Para resolver el problema, se sugiere implementar un apartado específico para el área de baños o grooming. Esto permitirá una mejor organización de los servicios ofrecidos, optimizando la eficiencia y mejorando la experiencia general del usuario al gestionar diversos servicios en un solo lugar.
+
   
 
 
