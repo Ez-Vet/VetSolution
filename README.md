@@ -655,7 +655,7 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 - **Edad: 28 años**
 - **Domicilio: Los Olivos** 
 
-**Entrevista: Noelia Aliaga** 
+**Entrevista:** 
 
 - **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWYEK2jlkx1JjvBRRNSfAasBBzbZKRAyTDySBMdNdyxrLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Zd84FB** 
 - **Momento en el que Inicia: 0:00 min**
@@ -666,7 +666,7 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 `	`El doctor Valentino expresó que encuentra sumamente interesante el uso de la herramienta Ez.vet, pues le permitiría optimizar el tiempo que dedica a cada consulta y, de manera especial, agilizar la atención en situaciones de emergencia. Señaló que, al reducir el tiempo de espera y aumentar la eficiencia en el proceso, podría ofrecer un servicio más rápido y efectivo a sus clientes, mejorando notablemente la experiencia de estos y facilitando su propio trabajo. Además, destacó que la herramienta sería particularmente útil en aquellos casos en los que el tiempo es un factor crítico, permitiéndole concentrarse en lo más importante: brindar atención oportuna y de calidad
 
 
-![](./assets/img/7.png)
+![](./Assets/Valentino.png)
 
 **Entrevistado N°2: Viviana Armas**
 
@@ -684,7 +684,7 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 
 ` ` La doctora Viviana recomendó realizar algunos cambios en los colores de ciertas áreas del aplicativo para mejorar su usabilidad. Aun así, en general, le pareció una herramienta muy útil, ya que le permitiría ahorrar tiempo y agilizar los procedimientos clínicos. Además, señaló que, en comparación con Vet Praxis, encuentra Ez.vet mucho más intuitivo y fácil de usar, lo cual considera una ventaja significativa para optimizar su práctica diaria.
 
-![](./assets/img/8.png)
+![](./Assets/Vivi.png)
 
 **Entrevistado N°3: Noelia Aliaga** 
 
@@ -703,7 +703,7 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 ` `La doctora Noelia comentó que el aplicativo le resulta muy útil, ya que le permitiría ahorrar entre 10 a 15 minutos en cada consulta, dado que actualmente el área de administración le exige registrar primero la historia clínica antes de iniciar la atención. Además, sugirió añadir una sección específica para el área de baños o servicio de grooming, ya que en su veterinaria también ofrecen este servicio, y una opción de este tipo facilitaría la gestión integral de todos los procedimientos que realizan. 
 
 
-![](./assets/img/9.png)
+![](./Assets/Noelia.png)
 
 ***Segmento 2: Dueños de Mascotas***
 
@@ -744,7 +744,7 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 
 
 
-![](./assets/img/11.png)
+![](./Assets/Jose.png)
 
 **Entrevistado N°3: Camila Sanchez**
 
@@ -762,7 +762,7 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 
 `	`A Camila le agradó el aplicativo y lo considera fácil de usar, apreciando su diseño intuitivo. Su recomendación fue permitir a los usuarios registrarse directamente sin necesidad de que el equipo se comunique con la veterinaria para crear su cuenta, eliminando así cualquier periodo de espera. Esta funcionalidad, según Camila, brindaría mayor autonomía a los usuarios y agilidad en el proceso, facilitando que ellos mismos puedan empezar a utilizar el aplicativo de inmediato y optimizando su experiencia general.
 
-![](./assets/img/21.png)
+![](./Assets/Camila.png)
 
 ### 5.3.3. Evaluaciones según heurísticas
 ## 5.4. Video About-the-Product
