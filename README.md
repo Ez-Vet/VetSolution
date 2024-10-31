@@ -630,6 +630,9 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 Durante el transcurso de este sprint, todos participamos de forma activa y constante en la creación de las tareas asignadas. A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 2:
 ![Participacíon](Assets/Participacion2.jpg)
+## 5.2.3 Sprint 3
+### 5.2.3.1. Sprint Planning 3
+### 5.2.3.2. Sprint Backlog 3 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
   ***Segmento 1: Médicos Veterinarios***
@@ -800,7 +803,7 @@ por Jakob Nielsen.
 - El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
 
 ## Video About-the-Team.
-No se entrega wefwet w f
+No se entrega 
 # Bibliografía
 - Bigby, G. (2023) Organizing Your Website with Information Architecture Methods.  Dyno Mapper: https://dynomapper.com/blog/19-ux/268-information-architecture-methods
 - Microsoft (2024) Microsoft Writing Style Guide. Microsoft Learn: https://learn.microsoft.com/en-us/style-guide/welcome/ 
