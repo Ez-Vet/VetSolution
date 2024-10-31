@@ -646,8 +646,8 @@ El Sprint #3 comienza el 10 de octubre de 2024, y su objetivo es solucionar erro
 |Sprint 3 Goal|20|
 |<p>Sum of story</p><p>points</p>|20|
 
-
 ### 5.2.3.2. Sprint Backlog 3 
+En el tercer sprint backlog, el equipo avanzó de manera parcial en el desarrollo del front end y back end de la aplicación web. Para organizar y gestionar al equipo se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas manejables, asignándolas a los distintos miembros de acuerdo con sus habilidades específicas.
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
   ***Segmento 1: Médicos Veterinarios***
