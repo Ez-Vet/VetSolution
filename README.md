@@ -765,6 +765,28 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 ![](./Assets/Camila.png)
 
 ### 5.3.3. Evaluaciones según heurísticas
+## Site o App a Evaluar 
+Ez.vet
+
+**Meta:** El propósito general de la evaluación es encontrar problemas existentes en la aplicación web Ez.vet.
+
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada
+por Jakob Nielsen.
+
+**Tareas a Evaluar**
+
+1. Desktop landing page
+
+2. Web Application
+  -  Inicio de sesión con usuario existente
+  - Iconografía comprensible y consistente con el mundo real
+  - Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
+  - Visualización de perfil de usuario
+
+**ESCALA DE SEVERIDAD**
+  
+
+
 ## 5.4. Video About-the-Product
 
 
