@@ -721,6 +721,8 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 
 **Resumen:**
 
+` `Sebastián Silva considera que la aplicación es altamente innovadora, ya que le permite tener acceso a toda la historia clínica de su mascota desde cualquier lugar, lo cual resulta sumamente práctico. Esta funcionalidad le facilita considerablemente la tarea de llevar consigo las recetas y diagnósticos de su mascota sin necesidad de cargar documentos físicos, mejorando su experiencia al poder consultar toda la información necesaria de manera rápida y ordenada. Para Sebastián, esta característica representa una gran ventaja, especialmente cuando necesita compartir detalles de salud con otros profesionales o en situaciones de emergencia.
+
 
 ![](./assets/img/10.png)
 
@@ -737,6 +739,8 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 - **Duración: 4:45 min**	
 
 **Resumen:**
+
+` `José expresó que el aplicativo le parece sumamente novedoso e innovador, destacando que es la primera vez que se encuentra con una herramienta de este tipo en el ámbito veterinario, lo cual considera un gran avance para la gestión y organización en clínicas. Su recomendación fue implementar un sistema de identificación única (ID) para cada mascota registrada, ya que de esta forma se podría evitar la duplicación de registros o posibles errores al vincular datos entre mascotas con nombres similares. Considera que esta funcionalidad no solo mejoraría la precisión en la información, sino que también contribuiría a optimizar el flujo de trabajo y la calidad del servicio ofrecido.
 
 
 
@@ -756,7 +760,7 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 
 **Resumen:**
 
-`	`Camila 
+`	`A Camila le agradó el aplicativo y lo considera fácil de usar, apreciando su diseño intuitivo. Su recomendación fue permitir a los usuarios registrarse directamente sin necesidad de que el equipo se comunique con la veterinaria para crear su cuenta, eliminando así cualquier periodo de espera. Esta funcionalidad, según Camila, brindaría mayor autonomía a los usuarios y agilidad en el proceso, facilitando que ellos mismos puedan empezar a utilizar el aplicativo de inmediato y optimizando su experiencia general.
 
 ![](./assets/img/21.png)
 
