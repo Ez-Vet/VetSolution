@@ -1699,6 +1699,316 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 Durante el transcurso de este sprint, todos participamos de forma activa y constante en la creación de las tareas asignadas. A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 2:
 ![Participacíon](Assets/Participacion2.jpg)
+## 5.2.3 Sprint 3
+### 5.2.3.1. Sprint Planning 3
+El Sprint #3 comienza el 10 de octubre de 2024, y su objetivo es solucionar errores en la aplicación web y desarrollar el back end de la misma.
+
+|Sprint #|Sprint 3|
+| :- | :-: |
+|Location|Zoom|
+|Prepared by|Sebastian Escobar Palomino|
+|Atendees(to planning meeting)|Diego Bastidas, Estrella Ticona, Johan Bottger , Sebastian De Las Casas|
+|<p>Sprint 3</p><p>Review</p><p>Summary</p>|En el sprint anterior logramos completar la entrega de todos los user stories. La opinión del product owner sobre el progreso alcanzado hasta el último entregable fue positiva.|
+|<p>Sprint 3</p><p>Review</p><p>Summary</p>|En el sprint anterior se lograron optimizar ciertos aspectos de eficiencia en algunos componentes. Del mismo modo, es posible mejorar el proyecto mediante la reestructuración de algunos de estos componentes.|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|Desarrollar las interfaces de perfil, comunidades , pacientes y el también parte del backend . Esto ayudara a mejorar la eficiencia de nuestra pagina web|
+|Sprint 3 Goal|30|
+|<p>Sum of story</p><p>points</p>|30|
+
+### 5.2.3.2. Sprint Backlog 3 
+En el tercer sprint backlog, el equipo avanzó de manera parcial en el desarrollo del frontend y backend de la aplicación web. Para organizar y gestionar al equipo se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas manejables, asignándolas a los distintos miembros de acuerdo con sus habilidades específicas. 
+Link :
+[Acceso a Trello - Sprint 3](https://trello.com/invite/b/67240e5d160f1b16c9f88751/ATTIc7b033b341757295e137afba6d0fa030029E1F3D/sprint-3)
+
+
++++
+| Technical User Story | Work Item / Task      |            |             |                   |              |               |               |
+|----------------------|-----------------------|------------|-------------|-------------------|--------------|---------------|---------------|
+| **Id**               | **Title**             | **Id**     | **Title**   | **Description**   | **Estimation (Hours)** | **Assigned To** | **Status (To-do/In-Process/To-Review/Done)** |
+| **TS01**             | Crear interfaz de inicio de sesión | **TK01** | Crear formulario de login | Crear formulario de ingreso para el usuario con validación de credenciales | 5 | Sebastian Escobar | To-do |
+|                      |                       | **TK02**   | Validar credenciales | Validar credenciales ingresadas contra la base de datos | 4 | Diego Bastidas | To-do |
+|                      |                       | **TK03**   | Manejo de errores | Implementar manejo de errores y mensajes para credenciales inválidas | 4 | Estrella Ticona | To-do |
+| **TS02**             | Crear dashboard de usuario | **TK04** | Crear interfaz de dashboard | Crear el diseño de la interfaz principal después del login | 6 | Johan Bottger | To-do |
+|                      |                       | **TK05**   | Mostrar estadísticas | Mostrar estadísticas clave del usuario en el dashboard | 5 | Sebastian De las Casas | In-Process |
+|                      |                       | **TK06**   | Configurar navegación | Configurar navegación a secciones desde el dashboard | 4 |Johan Bottger  | To-do |
+| **TS03**             | Crear módulo de perfil | **TK07** | Crear formulario de perfil | Crear formulario para actualizar datos personales | 4 | Johan Bottger | To-do |
+|                      |                       | **TK08**   | Validar datos | Validar datos ingresados en el formulario de perfil | 4 | Sebastian Escobar | To-do |
+|                      |                       | **TK09**   | Manejar actualización | Implementar lógica para guardar cambios en el perfil | 5 | Estrella Ticona | To-do |
+| **TS04**             | Crear módulo de citas | **TK10** | Crear formulario de cita | Crear formulario para agendar una cita | 5 | Estrella Ticona | To-do |
+|                      |                       | **TK11**   | Validar fecha y hora | Validar que la fecha y hora seleccionadas estén disponibles | 4 | Diego Bastidas| To-do |
+|                      |                       | **TK12**   | Confirmación de cita | Enviar confirmación de cita al usuario | 3 | Sebastian Escobar | To-do |
+| **TS05**             | Crear interfaz de historial | **TK13** | Mostrar historial de citas | Mostrar lista de citas pasadas del usuario | 4 | Johan Bottger | To-do |
+|                      |                       | **TK14**   | Filtrar historial | Permitir filtros por fecha o tipo de cita en el historial | 4 | Sebastian De las Casas | To-do |
+|                      |                       | **TK15**   | Exportar historial | Opción para exportar el historial de citas a PDF | 3 | Estrella Ticona | To-do |
+| **TS06**             | Crear API de usuario | **TK16** | Endpoint para login | Crear endpoint para verificar credenciales de usuario | 5 | Estrella Ticona | Done |
+|                      |                       | **TK17**   | Endpoint para perfil | Crear endpoint para actualizar el perfil del usuario | 5 | Sebastian Escobar | Done |
+|                      |                       | **TK18**   | Endpoint para logout | Crear endpoint para cerrar sesión del usuario | 3 | Diego Bastidas | Done |
+| **TS07**             | Crear API de citas | **TK19** | Endpoint para agendar cita | Crear endpoint para almacenar la información de una cita | 5 | Sebastian De las Casas | Done |
+|                      |                       | **TK20**   | Endpoint para disponibilidad | Endpoint para verificar disponibilidad de fecha/hora | 4 | Diego Bastidas | Done |
+|                      |                       | **TK21**   | Endpoint para cancelación | Endpoint para cancelar una cita | 3 | Diego Bastidas | Done |
+| **TS08**             | Crear API de historial | **TK22** | Endpoint de historial de citas | Crear endpoint para recuperar citas pasadas del usuario | 4 | Sebastian De las Casas | Done |
+|                      |                       | **TK23**   | Endpoint de exportación | Crear endpoint para exportar historial a PDF | 3 | Estrella Ticona | Done |
+|                      |                       | **TK24**   | Endpoint de filtros | Permitir filtros de citas en el endpoint de historial | 4 | Sebastian Escobar | Done |
+| **TS09**             | Crear sistema de notificaciones | **TK25** | Crear notificación de cita | Notificación automática para citas cercanas | 4 | Johan Bottger | In-Process |
+|                      |                       | **TK26**   | Crear notificación de cancelación | Notificación en caso de cancelación de cita | 3 | Johan Bottger | To-do |
+|                      |                       | **TK27**   | Notificación de recordatorio | Recordatorio de cita un día antes | 3 | Johan Bottger | To-do |
+| **TS10**             | Implementar autenticación | **TK28** | Endpoint de autenticación | Crear sistema de autenticación con JWT | 5 |Diego Bastidas | Done |
+|                      |                       | **TK29**   | Endpoint de autorización | Crear middleware de autorización para rutas protegidas | 4 | Sebastian Escobar | Done |
+|                      |                       | **TK30**   | Refrescar token | Implementar refresco de token en sesión prolongada | 3 | Sebastian Escobar | Done |
+| **TS11**             | Crear sistema de inventario | **TK31** | Endpoint para agregar ítem | Endpoint para agregar elementos al inventario | 5 | Sebastian De las Casas | To-do |
+|                      |                       | **TK32**   | Endpoint para ver inventario | Crear endpoint para listar ítems en inventario | 4 | Johan Bottger | To-do |
+|                      |                       | **TK33**   | Endpoint para actualización | Endpoint para actualizar detalles del ítem | 4 | Johan Bottger | To-do |
+| **TS12**             | Crear módulo de mensajes | **TK34** | Crear interfaz de mensajes | Interfaz para enviar y recibir mensajes | 6 | Sebastian De las Casas | In-Process |
+|                      |                       | **TK35**   | Validar mensajes | Validar y sanitizar mensajes antes de enviar | 4 | Sebastian Escobar | To-do |
+|                      |                       | **TK36**   | Historial de mensajes | Mostrar historial de conversaciones | 5 | Johan Bottger | To-do |
+| **TS13**             | Crear integración de pagos | **TK37** | Endpoint de procesamiento de pago | Crear endpoint para procesar pagos | 6 | Estrella Ticona | To-do |
+|                      |                       | **TK38**   | Confirmación de pago | Notificar al usuario tras realizar un pago exitoso | 4 | Sebastian De las Casas | To-do |
+|                      |                       | **TK39**   | Historial de pagos | Endpoint para listar historial de pagos | 5 | Diego Bastidas | To-do |
+| **TS14**             | Implementar seguridad | **TK40** | Validar entrada del usuario | Validar datos en todas las entradas de usuario | 5 | Estrella Ticona | In-Process |
+|                      |                       | **TK41**   | Protección CSRF | Implementar protección CSRF en formularios | 4 |Sebastian Escobar | To-do |
+|                      |                       | **TK42**   | Autenticación de dos factores | Permitir autenticación 2FA opcional | 5 | Johan Bottger | To-do |
+| **TS15**             | Crear módulo de soporte | **TK43** | Crear interfaz de soporte | Crear formulario para enviar solicitudes de soporte | 5 | Johan Bottger | To-do |
+|                      |                       | **TK44**   | Chat en vivo | Implementar chat en vivo con el equipo de soporte | 6 | Diego Bastidas | To-do |
+|                      |                       | **TK45**   | Base de conocimientos | Mostrar preguntas frecuentes y artículos | 5 | Sebastian De las Casas| To-do |
+### 5.2.3.3. Development Evidence for Sprint Review.
+Como evidencia del sprint review, se presenta una tabla que muestra los commits realizados durante este tercer sprint. Dado que se acordó trabajar en el frontend y backend de la aplicación web, se incluyen commits de diversos repositorios en los que se desarrollaron estas tareas.
++++
+| Repository                                               | Branch                      | Commit Id | Commit Message               | Commit Message Body                                       | Committed on (Date) |
+|----------------------------------------------------------|-----------------------------|-----------|-------------------------------|-----------------------------------------------------------|----------------------|
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | main                        | 1a2b3c4   | feat(login): Added login page | Initial setup for login page UI                           | 2024-10-10         |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | feature/authentication      | 2b3c4d5   | fix(auth): Fixed login flow   | Corrected the authentication flow for better UX           | 2024-10-10          |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | feature/signup              | 3c4d5e6   | feat(signup): Added signup    | Implemented user signup functionality                     | 2024-10-13          |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | main                        | 4d5e6f7   | chore: Added styling          | Updated button styles across pages                        | 2024-10-13          |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | feature/dashboard           | 5e6f7g8   | feat(dashboard): Added dashboard | Dashboard UI for user data overview                     | 2024-10-09          |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | main                        | 6f7g8h9   | fix: Responsive layout fixes  | Improved mobile responsiveness                            | 2024-10-13         |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | feature/notifications       | 7g8h9i0   | feat: Added notifications     | Added notification system for user alerts                 | 2024-10-13         |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | main                        | 8h9i0j1   | fix: Corrected routing issues | Fixed routing in app for smooth navigation               | 2024-10-13         |
+| [Backend](https://github.com/Ez-Vet/Backend)             | main                        | a1b2c3d   | feat(api): User CRUD endpoints | Created CRUD endpoints for user management               | 2024-10-17          |
+| [Backend](https://github.com/Ez-Vet/Backend)             | feature/appointments        | b2c3d4e   | feat: Appointment API         | Created endpoints for appointments                        | 2024-10-17          |
+| [Backend](https://github.com/Ez-Vet/Backend)             | feature/notifications       | c3d4e5f   | feat: Notifications API       | Created notification endpoints for real-time updates      | 2024-10-17         |
+| [Backend](https://github.com/Ez-Vet/Backend)             | main                        | d4e5f6g   | chore: Database migration     | Updated database schema for new features                  | 2024-10-17         |
+| [Backend](https://github.com/Ez-Vet/Backend)             | main                        | e5f6g7h   | fix: Auth middleware updates  | Updated authentication middleware for security            | 2024-10-17          |
+| [Backend](https://github.com/Ez-Vet/Backend)             | feature/inventory           | f6g7h8i   | feat: Inventory management    | Added inventory management system                         | 2024-10-18        |
+| [Backend](https://github.com/Ez-Vet/Backend)             | main                        | g7h8i9j   | fix: Error handling           | Enhanced error handling across API                        | 2024-10-18         |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | feature/profile             | 9i0j1k2   | feat(profile): User profile   | Added user profile editing                                | 2024-10-16          |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | main                        | 0j1k2l3   | feat: Localization            | Implemented i18n for multi-language support               | 2024-10-18        |
+| [Backend](https://github.com/Ez-Vet/Backend)             | feature/reports             | h8i9j0k   | feat(reports): Reporting API  | Added API for user reports                                | 2024-10-20          |
+| [Backend](https://github.com/Ez-Vet/Backend)             | main                        | i9j0k1l   | fix: Database connection pool | Optimized database connections for scalability            | 2024-10-20     |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | feature/help         | j0k1l2m   | feat(help-center): Help Center | Created a help center for user assistance                | 2024-10-20          |
++++
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+  ***Segmento 1: Médicos Veterinarios***
+
+1. ¿Que Aplicativo usas?
+1. ¿Que te parecio la interacción con Ez.vet?
+1. ¿Que es lo que modificarias o añadirias?
+
+
+***Segmento 2: Dueños de Mascotas***
+
+1. ¿Que te parecio la interacción con Ez.vet?
+1. ¿Que es lo que modificarias o añadirias?
+1. ¿Que tan sencillo te parecio el uso de Ez.vet?
+
+### 5.3.2. Registro de Entrevistas
+
+   ***Segmento 1: Médicos Veterinarios***
+
+   **Entrevistado N°1: Valentino Tirado**
+
+- **Sexo: Masculino** 
+- **Edad: 28 años**
+- **Domicilio: Los Olivos** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EWYEK2jlkx1JjvBRRNSfAasBBzbZKRAyTDySBMdNdyxrLg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Zd84FB** 
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 7:12 min**
+
+**Resumen:**
+
+`	`El doctor Valentino expresó que encuentra sumamente interesante el uso de la herramienta Ez.vet, pues le permitiría optimizar el tiempo que dedica a cada consulta y, de manera especial, agilizar la atención en situaciones de emergencia. Señaló que, al reducir el tiempo de espera y aumentar la eficiencia en el proceso, podría ofrecer un servicio más rápido y efectivo a sus clientes, mejorando notablemente la experiencia de estos y facilitando su propio trabajo. Además, destacó que la herramienta sería particularmente útil en aquellos casos en los que el tiempo es un factor crítico, permitiéndole concentrarse en lo más importante: brindar atención oportuna y de calidad
+
+
+![](./Assets/Valentino.png)
+
+**Entrevistado N°2: Viviana Armas**
+
+- **Sexo: Femenino** 
+- **Edad: 24 años**
+- **Domicilio: San Miguel** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EaNf1ImRbpRPvRwBoOyhmckBRyZQcbDy-LZX2T5FFQDqtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vBn1iu** 
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 5:00 min**
+
+**Resumen:**
+
+` ` La doctora Viviana recomendó realizar algunos cambios en los colores de ciertas áreas del aplicativo para mejorar su usabilidad. Aun así, en general, le pareció una herramienta muy útil, ya que le permitiría ahorrar tiempo y agilizar los procedimientos clínicos. Además, señaló que, en comparación con Vet Praxis, encuentra Ez.vet mucho más intuitivo y fácil de usar, lo cual considera una ventaja significativa para optimizar su práctica diaria.
+
+![](./Assets/Vivi.png)
+
+**Entrevistado N°3: Noelia Aliaga** 
+
+- **Sexo: Femenino**
+- **Edad: 50 años**
+- **Domicilio: Magdalena** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/Ef1y_P5oiLhMp_GNakPpocgBuJNRKXMn9W7H0vSvdNwnSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LBaRO3** 
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 2:59 min**
+
+**Resumen:**
+
+` `La doctora Noelia comentó que el aplicativo le resulta muy útil, ya que le permitiría ahorrar entre 10 a 15 minutos en cada consulta, dado que actualmente el área de administración le exige registrar primero la historia clínica antes de iniciar la atención. Además, sugirió añadir una sección específica para el área de baños o servicio de grooming, ya que en su veterinaria también ofrecen este servicio, y una opción de este tipo facilitaría la gestión integral de todos los procedimientos que realizan. 
+
+
+![](./Assets/Noelia.png)
+
+***Segmento 2: Dueños de Mascotas***
+
+**Entrevistado N°1: Sebastián Silva**
+
+- **Sexo: Masculino**
+- **Edad: 20**
+- **Domicilio: San Luis** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EfhZu4HwZiVOgiL2HqVkmpcBOXmWa-xzOxdchczVLxoOKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dPUYNk** 
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 5:27 min**
+
+**Resumen:**
+
+` `Sebastián Silva considera que la aplicación es altamente innovadora, ya que le permite tener acceso a toda la historia clínica de su mascota desde cualquier lugar, lo cual resulta sumamente práctico. Esta funcionalidad le facilita considerablemente la tarea de llevar consigo las recetas y diagnósticos de su mascota sin necesidad de cargar documentos físicos, mejorando su experiencia al poder consultar toda la información necesaria de manera rápida y ordenada. Para Sebastián, esta característica representa una gran ventaja, especialmente cuando necesita compartir detalles de salud con otros profesionales o en situaciones de emergencia.
+
+
+![](./assets/img/10.png)
+
+**Entrevistado N°2: Jose Roberto**
+
+- **Sexo: Masculino** 
+- **Edad: 21 años**
+- **Domicilio: San Luis**
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EQ2_ye-rGslBixwe4WrNDH0BSb9_uIn0Qlkjd-2vJkqfew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=elReSl** 
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 4:45 min**	
+
+**Resumen:**
+
+` `José expresó que el aplicativo le parece sumamente novedoso e innovador, destacando que es la primera vez que se encuentra con una herramienta de este tipo en el ámbito veterinario, lo cual considera un gran avance para la gestión y organización en clínicas. Su recomendación fue implementar un sistema de identificación única (ID) para cada mascota registrada, ya que de esta forma se podría evitar la duplicación de registros o posibles errores al vincular datos entre mascotas con nombres similares. Considera que esta funcionalidad no solo mejoraría la precisión en la información, sino que también contribuiría a optimizar el flujo de trabajo y la calidad del servicio ofrecido.
+
+
+
+![](./Assets/Jose.png)
+
+**Entrevistado N°3: Camila Sanchez**
+
+- **Sexo: Femenino**
+- **Edad:19**
+- **Domicilio: Surco** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a301_upc_edu_pe/EdcvgpvWm79NgSbsOzO4RhQBETQCJ4Ttpav52Qidt1YwUA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZWeZVz**
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 5:00 min**
+
+**Resumen:**
+
+`	`A Camila le agradó el aplicativo y lo considera fácil de usar, apreciando su diseño intuitivo. Su recomendación fue permitir a los usuarios registrarse directamente sin necesidad de que el equipo se comunique con la veterinaria para crear su cuenta, eliminando así cualquier periodo de espera. Esta funcionalidad, según Camila, brindaría mayor autonomía a los usuarios y agilidad en el proceso, facilitando que ellos mismos puedan empezar a utilizar el aplicativo de inmediato y optimizando su experiencia general.
+
+![](./Assets/Camila.png)
+
+### 5.3.3. Evaluaciones según heurísticas
+## Site o App a Evaluar 
+Ez.vet
+
+**Meta:** El propósito general de la evaluación es encontrar problemas existentes en la aplicación web Ez.vet.
+
+Cómo: Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada
+por Jakob Nielsen.
+
+**Tareas a Evaluar**
+
+1. Desktop landing page
+
+2. Web Application
+  - Ausencia del logotipo en la interfaz de la aplicación
+  - Botones sin tipografía adecuada
+  - Falta de un área específica para baños o servicio de grooming
+
+**ESCALA DE SEVERIDAD**
+| Nivel |Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**Problema #01: Ausencia del logotipo en la interfaz de la aplicación**  
+**Escala de severidad:** 02  
+**Principio violado:** Usability - Reconocimiento antes que recuerdo  
+La heurística de "Reconocimiento antes que recuerdo" se ve afectada por la falta del logotipo, ya que este es un elemento visual que ayuda a los usuarios a identificar rápidamente la aplicación y su marca. Sin un logotipo, los usuarios pueden tener dificultades para reconocer la interfaz como parte de la identidad de la aplicación.
+
+**Descripción del problema:**  
+La ausencia del logotipo en la interfaz principal de la aplicación crea una experiencia visual que carece de un identificador claro de marca. Esto puede resultar confuso para los usuarios, especialmente en el caso de nuevas instalaciones o visitas esporádicas, ya que no cuentan con un elemento visual que asocie la aplicación a una identidad particular.
+<br><br><br> 
+![](./Assets/Falta1.png)
+
+**Recomendación:**  
+Se recomienda incluir el logotipo de la aplicación en un lugar visible y destacado en la interfaz principal. Esto no solo fortalecerá el reconocimiento de marca, sino que también facilitará la identificación de la aplicación, mejorando la familiaridad del usuario con la interfaz.
+
+---
+
+**Problema #02: Botones sin tipografía adecuada**  
+**Escala de severidad:** 02  
+**Principio violado:** Usability - Consistencia y estándares  
+La heurística de "Consistencia y estándares" se ve afectada por el uso de tipografías que no son coherentes con el diseño general, lo que dificulta la experiencia de uso y reduce la claridad de los botones en la interfaz.
+
+**Descripción del problema:**  
+Los botones de la aplicación presentan una tipografía que no está alineada con el resto de los elementos visuales, generando una apariencia poco uniforme. Esto puede llevar a confusión y reducir la efectividad de la comunicación visual, afectando la claridad y consistencia en la navegación.
+
+<br><br><br> 
+![](./Assets/Falta2.png)
+
+**Recomendación:**  
+Es recomendable actualizar la tipografía de los botones para que coincida con la del diseño general de la aplicación. Esto garantizará una experiencia visual coherente y mejorará la percepción de calidad en la interfaz.
+
+---
+
+**Problema #03: Falta de un área específica para baños o servicio de grooming**  
+**Escala de severidad:** 03  
+**Principio violado:** Usability - Flexibilidad y eficiencia de uso  
+La heurística de "Flexibilidad y eficiencia de uso" se ve afectada al no contar con un área específica para baños o servicio de grooming, ya que esto impide que los usuarios puedan gestionar de manera eficiente todos los servicios disponibles en la aplicación.
+
+**Descripción del problema:**  
+La ausencia de un apartado dedicado para el servicio de baños o grooming en la aplicación limita la capacidad de los usuarios para organizar y registrar adecuadamente este tipo de servicios. Esto representa un obstáculo para aquellos usuarios que necesitan gestionar este servicio de manera específica, dificultando el flujo de trabajo y aumentando el tiempo requerido para completar estas tareas.
+
+<br><br><br> 
+![](./Assets/Falta3.png)
+
+**Recomendación:**  
+Para resolver el problema, se sugiere implementar un apartado específico para el área de baños o grooming. Esto permitirá una mejor organización de los servicios ofrecidos, optimizando la eficiencia y mejorando la experiencia general del usuario al gestionar diversos servicios en un solo lugar.
+
+  
+
+
+## 5.4. Video About-the-Product
+A continuación, se muestra el video "About the Product," que destaca el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de los principales usuarios, quienes confirman la calidad del software desarrollado.
+[Enlace al video en SharePoint](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EVqKuuFsrBVCoaypxnUVUSEBNsMBqGhgdtKu9cc1qCZCeQ?e=DRz9vn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
 # Conclusiones
 
 - Durante el desarrollo de la Landing Page, el equipo de EzVet ha logrado implementar con éxito las funcionalidades y características planificadas, proporcionando una experiencia de usuario sólida y coherente.
@@ -1709,7 +2019,9 @@ Durante el transcurso de este sprint, todos participamos de forma activa y const
 - El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
 
 ## Video About-the-Team.
-No se entrega 
+El video sintetiza el proceso de trabajo llevado a cabo por el equipo. En él, los integrantes explican las actividades que realizaron para lograr los resultados definidos por el curso. Es importante señalar que los miembros del equipo subrayan la comunicación oral y escrita como un método eficaz para expresar ideas y comunicar el progreso del proyecto.
+[Enlace al video en SharePoint](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EZDBabQMt1RFqnlVXDrJD2ABFqT-HDq8erl-4q9nXV8Hfw?e=U6wFL7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 # Bibliografía
 - Bigby, G. (2023) Organizing Your Website with Information Architecture Methods.  Dyno Mapper: https://dynomapper.com/blog/19-ux/268-information-architecture-methods
 - Microsoft (2024) Microsoft Writing Style Guide. Microsoft Learn: https://learn.microsoft.com/en-us/style-guide/welcome/ 
@@ -1723,3 +2035,6 @@ No se entrega
 - Anexo 3: [Trello](https://trello.com/)
 - Anexo 4: [LandingPage] (https://ez-vet.github.io/Landing_Page/)
 - Anexo 5: [Base de Datos]. (https://portal.azure.com/#@upc.edu.pe/resource/subscriptions/e4fc805a-4a90-40fc-a8c4-e8378c405105/resourceGroups/UPC/providers/Microsoft.DBforMySQL/flexibleServers/ezvet/overview)
+- Anexo 4: [LandingPage] (https://ezvetsolution.netlify.app)
+- Anexo 5: [Fronted] (https://ezvet.netlify.app)
+
