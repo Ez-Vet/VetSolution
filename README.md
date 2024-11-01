@@ -950,7 +950,9 @@ A continuación, se muestra el video "About the Product," que destaca el propós
 - El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
 
 ## Video About-the-Team.
-No se entrega 
+El video sintetiza el proceso de trabajo llevado a cabo por el equipo. En él, los integrantes explican las actividades que realizaron para lograr los resultados definidos por el curso. Es importante señalar que los miembros del equipo subrayan la comunicación oral y escrita como un método eficaz para expresar ideas y comunicar el progreso del proyecto.
+[Enlace al video en SharePoint](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EZDBabQMt1RFqnlVXDrJD2ABFqT-HDq8erl-4q9nXV8Hfw?e=U6wFL7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 # Bibliografía
 - Bigby, G. (2023) Organizing Your Website with Information Architecture Methods.  Dyno Mapper: https://dynomapper.com/blog/19-ux/268-information-architecture-methods
 - Microsoft (2024) Microsoft Writing Style Guide. Microsoft Learn: https://learn.microsoft.com/en-us/style-guide/welcome/ 
@@ -962,6 +964,6 @@ No se entrega
 - Anexo 1: [Organización en GitHub](https://github.com/Ez-Vet/VetSolution)
 - Anexo 2: [Mockups - Wireframe - User-Flow - WireFlow](https://www.figma.com/design/U3HFzRFzbx3daXfD7m18YZ/VetSolution?node-id=0-1&t=kbeh7DxEacwi9o9H-1)
 - Anexo 3: [Trello](https://trello.com/)
-- Anexo 4: [LandingPage] (https://ez-vet.github.io/Landing_Page/)
+- Anexo 4: [LandingPage] (https://ezvetsolution.netlify.app)
 - Anexo 5: [Fronted] (https://ezvet.netlify.app)
 
