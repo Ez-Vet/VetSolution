@@ -936,6 +936,8 @@ Para resolver el problema, se sugiere implementar un apartado específico para e
 
 
 ## 5.4. Video About-the-Product
+A continuación, se muestra el video "About the Product," que destaca el propósito, los beneficios y las características clave de la aplicación. Además, incluye testimonios de los principales usuarios, quienes confirman la calidad del software desarrollado.
+[Enlace al video en SharePoint](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EVqKuuFsrBVCoaypxnUVUSEBNsMBqGhgdtKu9cc1qCZCeQ?e=DRz9vn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 # Conclusiones
