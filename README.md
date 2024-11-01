@@ -647,7 +647,10 @@ El Sprint #3 comienza el 10 de octubre de 2024, y su objetivo es solucionar erro
 |<p>Sum of story</p><p>points</p>|30|
 
 ### 5.2.3.2. Sprint Backlog 3 
-En el tercer sprint backlog, el equipo avanzó de manera parcial en el desarrollo del frontend y backend de la aplicación web. Para organizar y gestionar al equipo se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas manejables, asignándolas a los distintos miembros de acuerdo con sus habilidades específicas.
+En el tercer sprint backlog, el equipo avanzó de manera parcial en el desarrollo del frontend y backend de la aplicación web. Para organizar y gestionar al equipo se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas manejables, asignándolas a los distintos miembros de acuerdo con sus habilidades específicas. 
+Link : +++
+[Acceso a Trello - Sprint 3](https://trello.com/invite/b/67240e5d160f1b16c9f88751/ATTIc7b033b341757295e137afba6d0fa030029E1F3D/sprint-3)
++++ 
 
 +++
 | Technical User Story | Work Item / Task      |            |             |                   |              |               |               |
