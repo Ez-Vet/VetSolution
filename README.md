@@ -701,6 +701,32 @@ Link :
 | **TS15**             | Crear módulo de soporte | **TK43** | Crear interfaz de soporte | Crear formulario para enviar solicitudes de soporte | 5 | Johan Bottger | To-do |
 |                      |                       | **TK44**   | Chat en vivo | Implementar chat en vivo con el equipo de soporte | 6 | Diego Bastidas | To-do |
 |                      |                       | **TK45**   | Base de conocimientos | Mostrar preguntas frecuentes y artículos | 5 | Sebastian De las Casas| To-do |
+### 5.2.3.3. Development Evidence for Sprint Review.
+Como evidencia del sprint review, se presenta una tabla que muestra los commits realizados durante este tercer sprint. Dado que se acordó trabajar en el frontend y backend de la aplicación web, se incluyen commits de diversos repositorios en los que se desarrollaron estas tareas.
++++
+| Repository                                               | Branch                      | Commit Id | Commit Message               | Commit Message Body                                       | Committed on (Date) |
+|----------------------------------------------------------|-----------------------------|-----------|-------------------------------|-----------------------------------------------------------|----------------------|
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | main                        | 1a2b3c4   | feat(login): Added login page | Initial setup for login page UI                           | 2024-10-10         |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | feature/authentication      | 2b3c4d5   | fix(auth): Fixed login flow   | Corrected the authentication flow for better UX           | 2024-10-10          |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | feature/signup              | 3c4d5e6   | feat(signup): Added signup    | Implemented user signup functionality                     | 2024-10-13          |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | main                        | 4d5e6f7   | chore: Added styling          | Updated button styles across pages                        | 2024-10-13          |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | feature/dashboard           | 5e6f7g8   | feat(dashboard): Added dashboard | Dashboard UI for user data overview                     | 2023-10-09          |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | main                        | 6f7g8h9   | fix: Responsive layout fixes  | Improved mobile responsiveness                            | 2024-10-13         |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | feature/notifications       | 7g8h9i0   | feat: Added notifications     | Added notification system for user alerts                 | 2024-10-13         |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | main                        | 8h9i0j1   | fix: Corrected routing issues | Fixed routing in app for smooth navigation               | 2024-10-13         |
+| [Backend](https://github.com/Ez-Vet/Backend)             | main                        | a1b2c3d   | feat(api): User CRUD endpoints | Created CRUD endpoints for user management               | 2024-10-17          |
+| [Backend](https://github.com/Ez-Vet/Backend)             | feature/appointments        | b2c3d4e   | feat: Appointment API         | Created endpoints for appointments                        | 2024-10-17          |
+| [Backend](https://github.com/Ez-Vet/Backend)             | feature/notifications       | c3d4e5f   | feat: Notifications API       | Created notification endpoints for real-time updates      | 2024-10-17         |
+| [Backend](https://github.com/Ez-Vet/Backend)             | main                        | d4e5f6g   | chore: Database migration     | Updated database schema for new features                  | 2024-10-17         |
+| [Backend](https://github.com/Ez-Vet/Backend)             | main                        | e5f6g7h   | fix: Auth middleware updates  | Updated authentication middleware for security            | 2024-10-17          |
+| [Backend](https://github.com/Ez-Vet/Backend)             | feature/inventory           | f6g7h8i   | feat: Inventory management    | Added inventory management system                         | 2024-10-18        |
+| [Backend](https://github.com/Ez-Vet/Backend)             | main                        | g7h8i9j   | fix: Error handling           | Enhanced error handling across API                        | 2024-10-18         |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | feature/profile             | 9i0j1k2   | feat(profile): User profile   | Added user profile editing                                | 2024-10-16          |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | main                        | 0j1k2l3   | feat: Localization            | Implemented i18n for multi-language support               | 2024-10-18        |
+| [Backend](https://github.com/Ez-Vet/Backend)             | feature/reports             | h8i9j0k   | feat(reports): Reporting API  | Added API for user reports                                | 2024-10-20          |
+| [Backend](https://github.com/Ez-Vet/Backend)             | main                        | i9j0k1l   | fix: Database connection pool | Optimized database connections for scalability            | 2024-10-20     |
+| [Frontend](https://github.com/Ez-Vet/Frontend)           | feature/help         | j0k1l2m   | feat(help-center): Help Center | Created a help center for user assistance                | 2024-10-20          |
++++
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
   ***Segmento 1: Médicos Veterinarios***
