@@ -643,11 +643,62 @@ El Sprint #3 comienza el 10 de octubre de 2024, y su objetivo es solucionar erro
 |<p>Sprint 3</p><p>Review</p><p>Summary</p>|En el sprint anterior se lograron optimizar ciertos aspectos de eficiencia en algunos componentes. Del mismo modo, es posible mejorar el proyecto mediante la reestructuración de algunos de estos componentes.|
 |**Sprint Goal & User Stories**||
 |Sprint 3 Goal|Desarrollar las interfaces de perfil, comunidades , pacientes y el también parte del backend . Esto ayudara a mejorar la eficiencia de nuestra pagina web|
-|Sprint 3 Goal|20|
-|<p>Sum of story</p><p>points</p>|20|
+|Sprint 3 Goal|30|
+|<p>Sum of story</p><p>points</p>|30|
 
 ### 5.2.3.2. Sprint Backlog 3 
 En el tercer sprint backlog, el equipo avanzó de manera parcial en el desarrollo del frontend y backend de la aplicación web. Para organizar y gestionar al equipo se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas manejables, asignándolas a los distintos miembros de acuerdo con sus habilidades específicas.
+
++++
+| Technical User Story | Work Item / Task      |            |             |                   |              |               |               |
+|----------------------|-----------------------|------------|-------------|-------------------|--------------|---------------|---------------|
+| **Id**               | **Title**             | **Id**     | **Title**   | **Description**   | **Estimation (Hours)** | **Assigned To** | **Status (To-do/In-Process/To-Review/Done)** |
+| **TS01**             | Crear interfaz de inicio de sesión | **TK01** | Crear formulario de login | Crear formulario de ingreso para el usuario con validación de credenciales | 5 | Frontend Dev | To-do |
+|                      |                       | **TK02**   | Validar credenciales | Validar credenciales ingresadas contra la base de datos | 4 | Frontend Dev | To-do |
+|                      |                       | **TK03**   | Manejo de errores | Implementar manejo de errores y mensajes para credenciales inválidas | 4 | Frontend Dev | To-do |
+| **TS02**             | Crear dashboard de usuario | **TK04** | Crear interfaz de dashboard | Crear el diseño de la interfaz principal después del login | 6 | Frontend Dev | To-do |
+|                      |                       | **TK05**   | Mostrar estadísticas | Mostrar estadísticas clave del usuario en el dashboard | 5 | Frontend Dev | In-Process |
+|                      |                       | **TK06**   | Configurar navegación | Configurar navegación a secciones desde el dashboard | 4 | Frontend Dev | To-do |
+| **TS03**             | Crear módulo de perfil | **TK07** | Crear formulario de perfil | Crear formulario para actualizar datos personales | 4 | Frontend Dev | To-do |
+|                      |                       | **TK08**   | Validar datos | Validar datos ingresados en el formulario de perfil | 4 | Frontend Dev | To-do |
+|                      |                       | **TK09**   | Manejar actualización | Implementar lógica para guardar cambios en el perfil | 5 | Frontend Dev | To-do |
+| **TS04**             | Crear módulo de citas | **TK10** | Crear formulario de cita | Crear formulario para agendar una cita | 5 | Frontend Dev | To-do |
+|                      |                       | **TK11**   | Validar fecha y hora | Validar que la fecha y hora seleccionadas estén disponibles | 4 | Frontend Dev | To-do |
+|                      |                       | **TK12**   | Confirmación de cita | Enviar confirmación de cita al usuario | 3 | Frontend Dev | To-do |
+| **TS05**             | Crear interfaz de historial | **TK13** | Mostrar historial de citas | Mostrar lista de citas pasadas del usuario | 4 | Frontend Dev | To-do |
+|                      |                       | **TK14**   | Filtrar historial | Permitir filtros por fecha o tipo de cita en el historial | 4 | Frontend Dev | To-do |
+|                      |                       | **TK15**   | Exportar historial | Opción para exportar el historial de citas a PDF | 3 | Frontend Dev | To-do |
+| **TS06**             | Crear API de usuario | **TK16** | Endpoint para login | Crear endpoint para verificar credenciales de usuario | 5 | Backend Dev | Done |
+|                      |                       | **TK17**   | Endpoint para perfil | Crear endpoint para actualizar el perfil del usuario | 5 | Backend Dev | Done |
+|                      |                       | **TK18**   | Endpoint para logout | Crear endpoint para cerrar sesión del usuario | 3 | Backend Dev | Done |
+| **TS07**             | Crear API de citas | **TK19** | Endpoint para agendar cita | Crear endpoint para almacenar la información de una cita | 5 | Backend Dev | Done |
+|                      |                       | **TK20**   | Endpoint para disponibilidad | Endpoint para verificar disponibilidad de fecha/hora | 4 | Backend Dev | Done |
+|                      |                       | **TK21**   | Endpoint para cancelación | Endpoint para cancelar una cita | 3 | Backend Dev | Done |
+| **TS08**             | Crear API de historial | **TK22** | Endpoint de historial de citas | Crear endpoint para recuperar citas pasadas del usuario | 4 | Backend Dev | Done |
+|                      |                       | **TK23**   | Endpoint de exportación | Crear endpoint para exportar historial a PDF | 3 | Backend Dev | Done |
+|                      |                       | **TK24**   | Endpoint de filtros | Permitir filtros de citas en el endpoint de historial | 4 | Backend Dev | Done |
+| **TS09**             | Crear sistema de notificaciones | **TK25** | Crear notificación de cita | Notificación automática para citas cercanas | 4 | Backend Dev | In-Process |
+|                      |                       | **TK26**   | Crear notificación de cancelación | Notificación en caso de cancelación de cita | 3 | Backend Dev | To-do |
+|                      |                       | **TK27**   | Notificación de recordatorio | Recordatorio de cita un día antes | 3 | Backend Dev | To-do |
+| **TS10**             | Implementar autenticación | **TK28** | Endpoint de autenticación | Crear sistema de autenticación con JWT | 5 | Backend Dev | Done |
+|                      |                       | **TK29**   | Endpoint de autorización | Crear middleware de autorización para rutas protegidas | 4 | Backend Dev | Done |
+|                      |                       | **TK30**   | Refrescar token | Implementar refresco de token en sesión prolongada | 3 | Backend Dev | Done |
+| **TS11**             | Crear sistema de inventario | **TK31** | Endpoint para agregar ítem | Endpoint para agregar elementos al inventario | 5 | Backend Dev | To-do |
+|                      |                       | **TK32**   | Endpoint para ver inventario | Crear endpoint para listar ítems en inventario | 4 | Backend Dev | To-do |
+|                      |                       | **TK33**   | Endpoint para actualización | Endpoint para actualizar detalles del ítem | 4 | Backend Dev | To-do |
+| **TS12**             | Crear módulo de mensajes | **TK34** | Crear interfaz de mensajes | Interfaz para enviar y recibir mensajes | 6 | Frontend Dev | In-Process |
+|                      |                       | **TK35**   | Validar mensajes | Validar y sanitizar mensajes antes de enviar | 4 | Frontend Dev | To-do |
+|                      |                       | **TK36**   | Historial de mensajes | Mostrar historial de conversaciones | 5 | Frontend Dev | To-do |
+| **TS13**             | Crear integración de pagos | **TK37** | Endpoint de procesamiento de pago | Crear endpoint para procesar pagos | 6 | Backend Dev | To-do |
+|                      |                       | **TK38**   | Confirmación de pago | Notificar al usuario tras realizar un pago exitoso | 4 | Backend Dev | To-do |
+|                      |                       | **TK39**   | Historial de pagos | Endpoint para listar historial de pagos | 5 | Backend Dev | To-do |
+| **TS14**             | Implementar seguridad | **TK40** | Validar entrada del usuario | Validar datos en todas las entradas de usuario | 5 | Backend Dev | In-Process |
+|                      |                       | **TK41**   | Protección CSRF | Implementar protección CSRF en formularios | 4 | Backend Dev | To-do |
+|                      |                       | **TK42**   | Autenticación de dos factores | Permitir autenticación 2FA opcional | 5 | Backend Dev | To-do |
+| **TS15**             | Crear módulo de soporte | **TK43** | Crear interfaz de soporte | Crear formulario para enviar solicitudes de soporte | 5 | Frontend Dev | To-do |
+|                      |                       | **TK44**   | Chat en vivo | Implementar chat en vivo con el equipo de soporte | 6 | Frontend Dev | To-do |
+|                      |                       | **TK45**   | Base de conocimientos | Mostrar preguntas frecuentes y artículos | 5 | Frontend Dev | To-do |
++++
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
   ***Segmento 1: Médicos Veterinarios***
