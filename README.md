@@ -2033,8 +2033,7 @@ El video sintetiza el proceso de trabajo llevado a cabo por el equipo. En él, l
 - Anexo 1: [Organización en GitHub](https://github.com/Ez-Vet/VetSolution)
 - Anexo 2: [Mockups - Wireframe - User-Flow - WireFlow](https://www.figma.com/design/U3HFzRFzbx3daXfD7m18YZ/VetSolution?node-id=0-1&t=kbeh7DxEacwi9o9H-1)
 - Anexo 3: [Trello](https://trello.com/)
-- Anexo 4: [LandingPage] (https://ez-vet.github.io/Landing_Page/)
+- Anexo 4: [LandingPage] (https://ezvetlanding.netlify.app/)
 - Anexo 5: [Base de Datos]. (https://portal.azure.com/#@upc.edu.pe/resource/subscriptions/e4fc805a-4a90-40fc-a8c4-e8378c405105/resourceGroups/UPC/providers/Microsoft.DBforMySQL/flexibleServers/ezvet/overview)
-- Anexo 4: [LandingPage] (https://ezvetsolution.netlify.app)
 - Anexo 5: [Fronted] (https://ezvet.netlify.app)
 
