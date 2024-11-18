@@ -1859,7 +1859,8 @@ En el cuarto sprint backlog, se incluyeron las tareas relacionadas al objetivo. 
 ### 5.2.4.3. Development Evidence for Sprint Review.
 
 Como evidencia del sprint review, se incluyen capturas del servidor de Base de Datos implementado en Microsoft Azure, capturas del despliegue del backend, y, finalmente, la aplicación web desplegada en su totalidad (Frontend en conexión con la capa backend).
-![](./Assets/basedatos.png)
+
+![](./Assets/basedatos.jpg)
 
 ![](./Assets/backend.png)
 
