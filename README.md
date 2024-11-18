@@ -1711,7 +1711,7 @@ El Sprint #3 comienza el 10 de octubre de 2024, y su objetivo es solucionar erro
 |<p>Sprint 3</p><p>Review</p><p>Summary</p>|En el sprint anterior logramos completar la entrega de todos los user stories. La opinión del product owner sobre el progreso alcanzado hasta el último entregable fue positiva.|
 |<p>Sprint 3</p><p>Review</p><p>Summary</p>|En el sprint anterior se lograron optimizar ciertos aspectos de eficiencia en algunos componentes. Del mismo modo, es posible mejorar el proyecto mediante la reestructuración de algunos de estos componentes.|
 |**Sprint Goal & User Stories**||
-|Sprint 3 Goal|Desarrollar las interfaces de perfil, comunidades , pacientes y el también parte del backend . Esto ayudara a mejorar la eficiencia de nuestra pagina web|
+|Sprint 3 Goal|Desarrollar las interfaces de perfil, comunidades , pacientes y el también parte del backend . Esto ayudara a mejorar la eficiencia de nuestra pagina web. |
 |Sprint 3 Goal|30|
 |<p>Sum of story</p><p>points</p>|30|
 
@@ -1795,6 +1795,61 @@ Como evidencia del sprint review, se presenta una tabla que muestra los commits 
 | [Backend](https://github.com/Ez-Vet/Backend)             | feature/reports             | h8i9j0k   | feat(reports): Reporting API  | Added API for user reports                                | 2024-10-20          |
 | [Backend](https://github.com/Ez-Vet/Backend)             | main                        | i9j0k1l   | fix: Database connection pool | Optimized database connections for scalability            | 2024-10-20     |
 | [Frontend](https://github.com/Ez-Vet/Frontend)           | feature/help         | j0k1l2m   | feat(help-center): Help Center | Created a help center for user assistance                | 2024-10-20          |
++++
+## 5.2.4 Sprint 4
+### 5.2.4.1. Sprint Planning 4
+El Sprint #4 comienza el 15 de Noviembre de 2024, y su objetivo es integrar en su totalidad la sección Front-end y su contraparte de Backend. Entre tanto, resolviendo las funcionalidades pendientes de ambos.
+
+|Sprint #|Sprint 4|
+| :- | :-: |
+|Location|Zoom|
+|Prepared by|Johan Karl Bottger Salazar|
+|Atendees(to planning meeting)|Diego Bastidas, Estrella Ticona, Johan Bottger , Sebastian De Las Casas|
+|<p>Sprint 2</p><p>Review</p><p>Summary</p>|En el sprint anterior logramos completar la entrega de todos los user stories. La opinión del product owner sobre el progreso alcanzado hasta el último entregable fue positiva.|
+|<p>Sprint 3</p><p>Review</p><p>Summary</p>|En el sprint anterior se lograron optimizar ciertos aspectos de eficiencia en algunos componentes. Del mismo modo, es posible mejorar el proyecto mediante la reestructuración de algunos de estos componentes.|
+|**Sprint Goal & User Stories**||
+|Sprint 4 Goal|Integración frontend-backend de todos los bounded contexts. Resolución completa de funcionalidades. |
+|Sprint 4 Goal|25|
+|<p>Sum of story</p><p>points</p>|25|
+
+### 5.2.4.2. Sprint Backlog 4 
+En el tercer sprint backlog, 
+
+
+| Technical User Story |      |  Work Item / Task             |             |                   |              |               |               |
+|----------------------|-------------------------|------------|-------------|-------------------|--------------|---------------|---------------|
+| **Id**               | **Title**               | **Id**     | **Title**   | **Description**   | **Estimation (Hours)** | **Assigned To** | **Status (To-do/In-Process/To-Review/Done)** |
+| **TS01**             | Desplegar Base de Datos | **TK01**   | Configuración de Base de Datos | Implementación de la base de datos en preparación para su despliegue | 6 | Sebastián De Las Casas | Done |
+|                      |                         | **TK02**   | Despliegue de Base de Datos | Lanzamiento exitoso de la base de datos en plataforma seleccionada (Azure) | 4 | Sebastián De Las Casas | Done |
+|                      |                         | **TK03**   | Definición de Servidor y login | Obtener información necesaria para la conexión con el servidor de la base de datos | 4 | Sebastián De Las Casas | Done |
+| **TS02**             | Backend Feature Pets | **TK04**   | Desarrollo de endpoint Pet | Creación e implementación del bounded context en el backend | 6 | Diego Bastidas | Done |
+|                      |                      | **TK05**   | Despliegue de API Pet | Lanzamiento y operaciones CRUD exitosas | 4 | Diego Bastidas | Done |
+| **TS03**             | Backend Feature IAM | **TK06**   | Desarrollo de endpoint IAM | Creación e implementación del bounded context en el backend | 6 | Estrella Ticona | Done |
+|                      |                      | **TK07**   | Despliegue de API IAM | Lanzamiento y operaciones CRUD exitosas | 4 | Estrella Ticona | Done |
+| **TS04**             | Backend Feature Appointment | **TK08**   | Desarrollo de endpoint Appointment | Creación e implementación del bounded context en el backend | 6 | Johan Bottger | Done |
+|                      |                      | **TK09**   | Despliegue de API Appointment | Lanzamiento y operaciones CRUD exitosas | 4 | Johan Bottger | Done |
+| **TS05**             | Backend Feature Inventory | **TK09**   | Desarrollo de endpoint Inventory | Creación e implementación del bounded context en el backend | 6 | Sebastián De Las Casas | Done |
+|                      |                      | **TK010**   | Despliegue de API Inventory | Lanzamiento y operaciones CRUD exitosas | 4 | Sebastián De Las Casas | Done |
+| **TS06**             | Backend Feature Notification | **TK11**   | Desarrollo de endpoint Notification | Creación e implementación del bounded context en el backend | 6 | Sebastián Escobar | Done |
+|                      |                      | **TK12**   | Despliegue de API Notification | Creación e implementación del bounded context en el backend | 6 | Sebastián Escobar | Done |
+| **TS07**             | Implementación Frontend con Backend | **TK11**   | Despliegue Completo Backend | Lanzamiento de Endpoints, incluida conexión con Base de Datos| 6 | Diego Bastidas | Done |
+|                      |                      | **TK12**   | Conexión de Frontend | Conexión de frontend desplegado a endpoints por medio de token | 6 | Estrella Ticona | Done |
+
+
+
+
+
+### 5.2.4.3. Development Evidence for Sprint Review.
+
+Como evidencia del sprint review, se incluyen capturas del servidor de Base de Datos implementado en Microsoft Azure, capturas del despliegue del backend, y, finalmente, la aplicación web desplegada en su totalidad (Frontend en conexión con la capa backend).
+![](./Assets/basedatos.png)
+
+![](./Assets/backend.png)
+
+![](./Assets/frontend.png)
+
+
+
 +++
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
