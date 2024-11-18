@@ -931,7 +931,7 @@ La ausencia de un apartado dedicado para el servicio de baños o grooming en la 
 
 **Recomendación:**  
 Para resolver el problema, se sugiere implementar un apartado específico para el área de baños o grooming. Esto permitirá una mejor organización de los servicios ofrecidos, optimizando la eficiencia y mejorando la experiencia general del usuario al gestionar diversos servicios en un solo lugar.
-
+dfdf dfd fdf df 
   
 
 
