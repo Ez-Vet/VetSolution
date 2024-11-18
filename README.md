@@ -2109,5 +2109,7 @@ El video sintetiza el proceso de trabajo llevado a cabo por el equipo. En él, l
 - Anexo 3: [Trello](https://trello.com/)
 - Anexo 4: [LandingPage] (https://ezvetlanding.netlify.app/)
 - Anexo 5: [Base de Datos]. (https://portal.azure.com/#@upc.edu.pe/resource/subscriptions/e4fc805a-4a90-40fc-a8c4-e8378c405105/resourceGroups/UPC/providers/Microsoft.DBforMySQL/flexibleServers/ezvet/overview)
-- Anexo 5: [Fronted] (https://ezvet.netlify.app)
+- Anexo 6: [Fronted] (https://ezvet.netlify.app)
+- Anexo 6: [Backend] (https://ezvet.azurewebsites.net/swagger/index.html)
+
 
