@@ -1862,7 +1862,8 @@ Como evidencia del sprint review, se incluyen capturas del servidor de Base de D
 
 ![](./Assets/basedatos.jpeg)
 
-![](./Assets/backend.png)
+![](./Assets/backendiam.jpeg)
+
 
 ![](./Assets/frontend.png)
 
