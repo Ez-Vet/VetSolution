@@ -1813,27 +1813,26 @@ El Sprint #4 comienza el 15 de Noviembre de 2024, y su objetivo es integrar en s
 |<p>Sum of story</p><p>points</p>|25|
 
 ### 5.2.4.2. Sprint Backlog 4 
-En el tercer sprint backlog, 
-
+En el cuarto sprint backlog, se incluyeron las tareas relacionadas al objetivo. Se dividen entre los 5 bounded contexts y están enfocados en la implementación del backend con el resto del proyecto.
 
 | Technical User Story |      |  Work Item / Task             |             |                   |              |               |               |
 |----------------------|-------------------------|------------|-------------|-------------------|--------------|---------------|---------------|
 | **Id**               | **Title**               | **Id**     | **Title**   | **Description**   | **Estimation (Hours)** | **Assigned To** | **Status (To-do/In-Process/To-Review/Done)** |
-| **TS01**             | Desplegar Base de Datos | **TK01**   | Configuración de Base de Datos | Implementación de la base de datos en preparación para su despliegue | 6 | Sebastián De Las Casas | Done |
-|                      |                         | **TK02**   | Despliegue de Base de Datos | Lanzamiento exitoso de la base de datos en plataforma seleccionada (Azure) | 4 | Sebastián De Las Casas | Done |
-|                      |                         | **TK03**   | Definición de Servidor y login | Obtener información necesaria para la conexión con el servidor de la base de datos | 4 | Sebastián De Las Casas | Done |
-| **TS02**             | Backend Feature Pets | **TK04**   | Desarrollo de endpoint Pet | Creación e implementación del bounded context en el backend | 6 | Diego Bastidas | Done |
-|                      |                      | **TK05**   | Despliegue de API Pet | Lanzamiento y operaciones CRUD exitosas | 4 | Diego Bastidas | Done |
-| **TS03**             | Backend Feature IAM | **TK06**   | Desarrollo de endpoint IAM | Creación e implementación del bounded context en el backend | 6 | Estrella Ticona | Done |
-|                      |                      | **TK07**   | Despliegue de API IAM | Lanzamiento y operaciones CRUD exitosas | 4 | Estrella Ticona | Done |
-| **TS04**             | Backend Feature Appointment | **TK08**   | Desarrollo de endpoint Appointment | Creación e implementación del bounded context en el backend | 6 | Johan Bottger | Done |
-|                      |                      | **TK09**   | Despliegue de API Appointment | Lanzamiento y operaciones CRUD exitosas | 4 | Johan Bottger | Done |
-| **TS05**             | Backend Feature Inventory | **TK09**   | Desarrollo de endpoint Inventory | Creación e implementación del bounded context en el backend | 6 | Sebastián De Las Casas | Done |
-|                      |                      | **TK010**   | Despliegue de API Inventory | Lanzamiento y operaciones CRUD exitosas | 4 | Sebastián De Las Casas | Done |
-| **TS06**             | Backend Feature Notification | **TK11**   | Desarrollo de endpoint Notification | Creación e implementación del bounded context en el backend | 6 | Sebastián Escobar | Done |
-|                      |                      | **TK12**   | Despliegue de API Notification | Creación e implementación del bounded context en el backend | 6 | Sebastián Escobar | Done |
-| **TS07**             | Implementación Frontend con Backend | **TK11**   | Despliegue Completo Backend | Lanzamiento de Endpoints, incluida conexión con Base de Datos| 6 | Diego Bastidas | Done |
-|                      |                      | **TK12**   | Conexión de Frontend | Conexión de frontend desplegado a endpoints por medio de token | 6 | Estrella Ticona | Done |
+| **TS01**             | Desplegar Base de Datos | **TK01**   | Configuración de Base de Datos | Implementación de la base de datos en preparación para su despliegue | 4 | Sebastián De Las Casas | Done |
+|                      |                         | **TK02**   | Despliegue de Base de Datos | Lanzamiento exitoso de la base de datos en plataforma seleccionada (Azure) | 3 | Sebastián De Las Casas | Done |
+|                      |                         | **TK03**   | Definición de Servidor y login | Obtener información necesaria para la conexión con el servidor de la base de datos | 3 | Sebastián De Las Casas | Done |
+| **TS02**             | Backend Feature Pets | **TK04**   | Desarrollo de endpoint Pet | Creación e implementación del bounded context en el backend | 4 | Diego Bastidas | Done |
+|                      |                      | **TK05**   | Despliegue de API Pet | Lanzamiento y operaciones CRUD exitosas | 3 | Diego Bastidas | Done |
+| **TS03**             | Backend Feature IAM | **TK06**   | Desarrollo de endpoint IAM | Creación e implementación del bounded context en el backend | 3 | Estrella Ticona | Done |
+|                      |                      | **TK07**   | Despliegue de API IAM | Lanzamiento y operaciones CRUD exitosas | 3 | Estrella Ticona | Done |
+| **TS04**             | Backend Feature Appointment | **TK08**   | Desarrollo de endpoint Appointment | Creación e implementación del bounded context en el backend | 4 | Johan Bottger | Done |
+|                      |                      | **TK09**   | Despliegue de API Appointment | Lanzamiento y operaciones CRUD exitosas | 3 | Johan Bottger | Done |
+| **TS05**             | Backend Feature Inventory | **TK09**   | Desarrollo de endpoint Inventory | Creación e implementación del bounded context en el backend | 4 | Sebastián De Las Casas | Done |
+|                      |                      | **TK010**   | Despliegue de API Inventory | Lanzamiento y operaciones CRUD exitosas | 3 | Sebastián De Las Casas | Done |
+| **TS06**             | Backend Feature Notification | **TK11**   | Desarrollo de endpoint Notification | Creación e implementación del bounded context en el backend | 4 | Sebastián Escobar | Done |
+|                      |                      | **TK12**   | Despliegue de API Notification | Creación e implementación del bounded context en el backend | 3 | Sebastián Escobar | Done |
+| **TS07**             | Implementación Frontend con Backend | **TK11**   | Despliegue Completo Backend | Lanzamiento de Endpoints, incluida conexión con Base de Datos| 4 | Diego Bastidas | Done |
+|                      |                      | **TK12**   | Conexión de Frontend | Conexión de frontend desplegado a endpoints por medio de token | 4 | Estrella Ticona | Done |
 
 
 
